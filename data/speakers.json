@@ -1,0 +1,381 @@
+[
+    {
+      "name": "Bilal Cinarli",
+      "title": "Software Engineer at adidas, GDE on Web Technologies",
+      "company": "Adidas",
+      "bio": "Bilal is a big enthusiast of building maintainable and scalable front-ends. To achieve this goal, he maintains open-source projects such as Caffeine, Melange, Misto and UX Rocket. In day-to-day works, he works on mobile web apps and JavaScript applications for intranets and as well as clients. He manages teams and optimizes the front-end development process. He is also, teaches HTML\/CSS and JavaScript techniques and gave workshops about Front-end related topics. He blogs at HTML Mag and share his thoughts about web development, mobile approaches.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/bilal.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/bcinarli",
+        "github": "https:\/\/github.com\/bcinarli",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/bcinarli"
+      },
+      "sessions": [
+        {
+          "title": "Future Proof Frontend Coding: Decouple your dependencies",
+          "description": "Almost every 6 months we have new frameworks or approaches in frontend world. Sometime your project\u2019s codebase become outdated before it is on productions according to new techs. These rapid changes are tiring and frustrated for developers\u2019 time to time. This talks helps to visualize how to setup your codebase for changes with wrapping your dependencies in a standardized way. So, your internal modules never aware of your external dependencies and even do not figure out if dependency changed or not at all. With the standardizing your wrappers, at any time you can update or change your external dependencies safely.",
+          "keynote": 0,
+          "track": 2,
+          "session": 1,
+          "time": "10:00",
+          "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "Derick Rethans",
+      "title": "Sr. Software Engineer at MongoDB, author of Xdebug",
+      "company": "MongoDB",
+      "bio": "Derick Rethans is a PHP internals expert, author of Xdebug and an OpenStreetMap and mapping enthusiast. He has contributed in a number of ways to the PHP project, including the Xdebug debugging tool, and various extensions and additions. He's a frequent lecturer at conferences, the author of php|architect's Guide to Date and Time Programming, and the co-author of PHP 5 Power Programming. He is now working at MongoDB, where he works on the PHP, C, and C++ drivers for MongoDB, and date\/time related server features.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/derick.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/derickr",
+        "github": "https:\/\/github.com\/derickr",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/derickrethans"
+      },
+      "sessions": [
+        {
+          "title": "What's new in Xdebug?",
+          "description": "In this talk I will cover the latest additions to Xdebug. Although it is 15 years old now, many features have been added in the last few months and years. In this talk, I will introduce and explain these new features, and some more notable features added in the last few years.",
+          "keynote": 0,
+          "track": 1,
+          "session": 2,
+          "time": "10:00",
+          "language": "English"
+        },
+        {
+          "title": "Introduction to PHP Extensions",
+          "description": "You\u2019ve got that need\u2014the need for speed! Using step-by-step examples, we\u2019ll take functions written in PHP and convert them into loadable extensions using C. We\u2019ll then test both versions and compare the results. After seeing the size and scope of the benefits that can be realized with only a few minor changes, you\u2019ll be ready to take the plunge. You\u2019ll also understand why we start with simple things, and not try to rewrite all of Symfony in C.",
+          "keynote": 0,
+          "track": 1,
+          "session": 3,
+          "time": "10:30",
+          "language": "English"
+        }
+      ]
+    },
+    {
+        "name": "Derick Rethans",
+        "title": "Sr. Software Engineer at MongoDB, author of Xdebug",
+        "company": "MongoDB",
+        "bio": "Derick Rethans is a PHP internals expert, author of Xdebug and an OpenStreetMap and mapping enthusiast. He has contributed in a number of ways to the PHP project, including the Xdebug debugging tool, and various extensions and additions. He's a frequent lecturer at conferences, the author of php|architect's Guide to Date and Time Programming, and the co-author of PHP 5 Power Programming. He is now working at MongoDB, where he works on the PHP, C, and C++ drivers for MongoDB, and date\/time related server features.",
+        "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/derick.jpg",
+        "social": {
+          "twitter": "https:\/\/twitter.com\/derickr",
+          "github": "https:\/\/github.com\/derickr",
+          "linkedin": "https:\/\/www.linkedin.com\/in\/derickrethans"
+        },
+        "sessions": [
+          {
+            "title": "Introduction to PHP Extensions",
+            "description": "You\u2019ve got that need\u2014the need for speed! Using step-by-step examples, we\u2019ll take functions written in PHP and convert them into loadable extensions using C. We\u2019ll then test both versions and compare the results. After seeing the size and scope of the benefits that can be realized with only a few minor changes, you\u2019ll be ready to take the plunge. You\u2019ll also understand why we start with simple things, and not try to rewrite all of Symfony in C.",
+            "keynote": 0,
+            "track": 2,
+            "session": 3,
+            "time": "10:30",
+            "language": "English"
+          }
+        ]
+      },
+    {
+      "name": "Emir Karsiyakali",
+      "title": "Software Architect, PHP Evangelist",
+      "company": "Moneo",
+      "bio": "Emir Kar\u015f\u0131yakal\u0131 is Web developer with a passion for open-source, community & PHP. He is Zend Certified PHP Engineer and over 10 years of experience in web application development. User group leader of \u0130stanbul PHP. Organizer of PHPKonf 2014, 2015, 2016 and 2017, Jstanbul 2012, JSIST 2014, Mobilist 2013, PHP-ist 2013, HackING Hackathon 2014 and much more.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/emir.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/emirkarsiyakali",
+        "github": "https:\/\/github.com\/emir",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/emirkarsiyakali"
+      },
+      "sessions": [
+        {
+          "title": "PHP ile Defansif Programlama ve Statik Analiz",
+          "description": "Oturumda 7.0 s\u00fcr\u00fcm\u00fcyle Gradual typing'e ge\u00e7i\u015f yapan PHP'in Defansif Programlama taraf\u0131nda getirdikleri; hata derleme, soyutlama, calisthenics, de\u011fi\u015fmez objeler ve statik analiz anlat\u0131larak uzun \u00f6m\u00fcrl\u00fc ve \u00f6zellikle a\u00e7\u0131k kaynak projelerde uygulanmas\u0131 gereken bilgiler payla\u015f\u0131lacak.",
+          "keynote": 0,
+          "track": 1,
+          "session": 4,
+          "time": "11:00",
+          "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "Ersoy Pembe",
+      "title": "Sr. Software Developer",
+      "company": "Insider",
+      "bio": "Ersoy Pembe has been working as a senior software engineer and architect for Insider. He holds a BSc Computer Engineering degree from Koç University. Before joining Insider, he worked for InsightHealth (Germany), Mobven, Peak Games, and Positive. He is an expert at designing, developing and maintaining scalable systems.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/ersoy.jpg",
+      "social": {
+        "twitter": "#",
+        "github": "https://github.com/ersoy-insider",
+        "linkedin": "https://tr.linkedin.com/in/ersoy-pembe"
+      },
+      "sessions": [
+        {
+          "title": "Insider'da ayda 5 milyar Web Push bildirimini nasıl gönderiyoruz?",
+          "description": "Insider'in kilit ürünlerinin başında \"Web Push Bildirimleri\" geliyor ve 350'den fazla müşteriye ayda 5 milyardan fazla bildirim gönderiyoruz. Bu sunumda ajandamız şu şekilde olacak; Web Push nedir ve ne gibi türleri vardır? Kullandığımız teknolojileri nasıl ölçeklendiriyoruz? Zamana karşı nasıl yarışıyor ve 1 dakikanın altında 5 milyon web push'u gönderiyoruz? PHP 7.1'e geçiş yaptığımızda ne gibi metriklerle karşılaştık? Oturumda bu soruları cevaplandırıyor olacağız.",
+          "keynote": 0,
+          "track": 2,
+          "session": 5,
+          "time": "11:00",
+          "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "Fatih Kadir Akin",
+      "title": "Full-stack Developer at Protel",
+      "company": "Protel",
+      "bio": "Ben Fatih Kadir Akın. 2000 yılından beri JavaScript geliştiriyorum. Yazılım hayatım boyunca JavaScript, PHP, Python, Ruby ve Crystal ile bir çok küçük ve büyük proje geliştirdim. Son zamanlarda profesyonel hayatıma Ruby, JavaScript/ECMAScript ve Crystal ile devam ediyorum. Daha önceden Hepsiburada, MetGlobal, Koding ve Markafoni'de JavaScript ve arayüz geliştirici olarak görev aldım. Şu an Protel Bilgisayar AŞ'de yazılım geliştirme ekibinde full-stack geliştirici olarak görev alıyorum. JavaScript İstanbul Topluluğu (Jstanbul)'nun kurucu ekibindenim. 2013 yılında Modern JavaScript kitabını yazdım.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/fatih.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/fkadev",
+        "github": "https:\/\/github.com\/f",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/fatihkadirakin"
+      },
+      "sessions": [
+        {
+          "title": "GraphQL: Yeni Nesil Uygulama Geli\u015ftirme Aray\u00fczleri",
+          "description": "Facebook taraf\u0131ndan geli\u015ftirilen GraphQL teknolojisinin detaylar\u0131n\u0131, kullan\u0131m alanlar\u0131n\u0131 ve PHP'de nas\u0131l kullan\u0131laca\u011f\u0131n\u0131 anlataca\u011f\u0131m\u0131z bir konu\u015fma olacak.",
+          "keynote": 0,
+          "track": 2,
+          "session": 6,
+          "time": "12:00",
+          "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "Filiz Altıntürk",
+      "title": "Sr. Frontend Developer at Boyner Grup",
+      "company": "Moneo",
+      "bio": "On yılı aşkın bir süredir dijital ajanslar ve kurumsal firmalar için Front-End teknolojileri geliştiriyorum. Son iki yıldır yüksek trafik alan web sitelerinin performans iyileştirmeleri konusunda araştırma ve geliştirmeler yapıyorum. Şu an Boyner'de Senior Front-End Developer olarak çalışmaktayım.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/filiz.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/Filiz_Altinturk",
+        "github": "https:\/\/github.com\/filiz137",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/filizaltinturk"
+      },
+      "sessions": [
+        {
+          "title": "Front-end'in 1 saniyesi",
+          "description": "Web siteleri için mobil uyumluluk ve performans artık bir tercih değil, zorunluluk. Gün geçtikçe artan internet kullanım oranları, özellikle de mobil cihazların göz ardı edilemeyecek yaygınlığı, tüm internet hızlarında ve tüm cihazlarda kullanıcı deneyimi geliştirmemiz konusunda bizi mecbur kılıyor. Hız ve performansın bu göz ardı edilemeyecek önemine karşın son birkaç yılda ortalama web sitelerinin boyutu üç katına çıktı ve birçok web tekniği ve platformu performansı göz ardı etti. Biten bataryalarımız, internet paketlerimiz ve sayfanın yüklenmesini beklerken yiten zamanlarımız oldu. Performans optimizasyonu şimdi yeni bir dalga, akım olarak karşımıza çıkar oldu. Bu sunumda kimler performans artışı için ne yaptı (NY Times ve BBC, Amazon ve tabi ki Nesine.com ), neler kazandı? Bunun için yapılabilecekler nelerdir Http/2, Service Workers, PWA, Resource Hints ve WebFont Performans konularında bu oturumda değiniyoruz.",
+          "keynote": 0,
+          "track": 2,
+          "session": 7,
+          "time": "13:30",
+          "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "Gary Hockin",
+      "title": "Sr. Software Engineer at BBC",
+      "company": "Moneo",
+      "bio": "Gary travels all over the world empowering users of PhpStorm as a Developer Advocate for JetBrains (fine purveyors of quality IDEs). He is a talented and evocative speaker, a cultivated author of impressively entertaining blog posts, and records elegant and informative screencasts and videos. Gary's also a contributor to the Zend Framework and is argumentative enough to be on the community review team. When Gary had a real job, he was a developer of at least standard with nearly 20 years experience. When not developing, speaking about developing, reading about developing or writing about developing, Gary enjoys playing computer games, and arguing with his wife and two kids.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/gary.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/GeeH",
+        "github": "https:\/\/github.com\/GeeH",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/gary-hockin-9b06863a\/"
+      },
+      "sessions": [
+        {
+          "title": "Things I Wish I Knew When I Started Playing \"Developer\"?",
+          "description": "I'm a gamer, and some of my favourite articles to read about computer games are those click-bait posts that read \"Ten Things I Wish I Knew When I Started Playing Pac-Man!\". When you're playing computer games, it's easy to miss things that are obvious to others, and these posts can help you to understand a simple game mechanic that you'd otherwise have not used. It got me thinking about the things in my own career that I found out about too late, or didn't fully understand until much later than I needed it. We'll cover both the technical and the conversational, so join me, as I introduce you to Things I Wish I Knew When I Started Playing \"Developer\".",
+          "keynote": 1,
+          "track": 1,
+          "session": 8,
+          "time": "14:00",
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "name": "Gulcin Yildirim Jelinek",
+      "title": "SRE at 2ndQuadrant, Board Member on PostgreSQL EU",
+      "company": "Moneo",
+      "bio": "G\u00fcl\u00e7in started working with PostgreSQL at a startup company in 2012 and was amazed how good Postgres really is! After being involved in organizing PostgreSQL conferences, giving talks and being an active community member she has been elected to PostgreSQL Europe Board in 2017. Gulcin is interested in PostgreSQL Automation and Cloud Technologies. She currently leads the Cloud service offerings at 2ndQuadrant as Site Reliability Engineer.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/gulcin.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/apatheticmagpie",
+        "github": "https:\/\/github.com\/apatheticmagpie",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/gulcinyildirim"
+      },
+      "sessions": [
+        {
+          "title": "PostgreSQL is not your traditional SQL database",
+          "description": "In this talk, we will discuss non-relational features of PostgreSQL such as JSONB datatype and full-text search. This will give you ideas about how to use PostgreSQL for modern software architectures.",
+          "keynote": 0,
+          "track": 2,
+          "session": 9,
+          "time": "14:00",
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "name": "Hazel Kavili",
+      "title": "Data Analyst at Wixot Games",
+      "company": "Moneo",
+      "bio": "Hazel Kav\u0131l\u0131 studied Statistics (B.Sc. and M.Sc.) and she currently works at Wixot as Data Analyst. Besides work she also does her PhD in Earth System Sciences. She is also the founder of R-Ladies Istanbul chapter and member of NASADatanauts 2017 spring class.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/hazel.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/zofiathewitch",
+        "github": "https:\/\/github.com\/UniversalTourist",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/hazzelkavili"
+      },
+      "sessions": [
+        {
+          "title": "Bir Veri Analistinin Web Geli\u015ftirme Maceralar\u0131",
+          "description": "Veri biliminin ortaya \u00e7\u0131kmas\u0131 ve b\u00fcy\u00fck miktarda veriyi analiz etme, yorumlama gereksiniminin artmas\u0131yla R dili daha pop\u00fcler hale geldi. Bununla birlikte istatistiksel hesaplar\u0131n yap\u0131ld\u0131\u011f\u0131 platformlar ve web aras\u0131nda daha p\u00fcr\u00fczs\u00fcz bir etkile\u015fime ihtiya\u00e7 duyulmaya ba\u015fland\u0131. Veriyi daha etkile\u015fimli bir kullan\u0131c\u0131 aray\u00fcz\u00fc ile analiz edebilen uygulamalar geli\u015ftirmek ve bu uygulamalar\u0131 cloud ortam\u0131nda \u00e7al\u0131\u015f\u0131r hale getirmek art\u0131k bir veri analistinin yapt\u0131\u011f\u0131 i\u015fler aras\u0131nda. R\u2019\u0131n Shiny paketi tam da bu durumlar i\u00e7in ideal bir ara\u00e7. Veri bilimi alan\u0131nda kad\u0131nlar\u0131n yerinden, global topluluklardan ve R-Ladies Istanbul\u2019un bu topluluklar aras\u0131ndaki yerinden bahsedilecek olan oturumda, R\u2019\u0131n Shiny uygulamalar\u0131 ile birlikte bir veri analistinin web geli\u015ftirme maceralar\u0131n\u0131 dinleyeceksiniz.",
+          "keynote": 0,
+          "track": 2,
+          "session": 10,
+          "time": "15:30",
+          "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "Ismail Baskin",
+      "title": "Google Cloud Developer Expert, Full-stack Developer",
+      "company": "Moneo",
+      "bio": "Ismail Baskin is full stack developer for 12 years and has 2 years Google Cloud Services experience. He has been working as a freelancer developer and consultant.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/ismail.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/baskindev",
+        "github": "https:\/\/github.com\/ismailbaskin",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/ismailbaskin"
+      },
+      "sessions": [
+        {
+          "title": "Google Cloud ile m\u00fckemmel PHP API'leri geli\u015ftirin",
+          "description": "PHP uygulaman\u0131z\u0131 canl\u0131ya al\u0131rken yapmam\u0131z gereken bir \u00e7ok \u015fey var ama kodumuzu da karma\u015f\u0131kl\u0131ktan uzak tutmak istiyoruz. Kullan\u0131c\u0131lar\u0131 kimliklendirmek, yetkilendirmek, uygulaman\u0131n yava\u015f k\u0131s\u0131mlar\u0131n\u0131 fark etmek, loglar\u0131n\u0131 tutmak, sonras\u0131nda bu loglar\u0131 analiz etmek ve otomatik \u00f6l\u00e7eklendirmek gibi i\u015fleri bizim yerimize Google Cloud'un \u00e7\u00f6zmesi i\u00e7in bilmeniz gereken \u015feyler bu sunumda.",
+          "keynote": 0,
+          "track": 2,
+          "session": 11,
+          "time": "15:45",
+          "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "James Titcumb",
+      "title": "Consultant at Roave, maintainer of Zend Framework",
+      "company": "Moneo",
+      "bio": "James is a consultant, trainer and developer at Roave. He is a prolific contributor to various open source projects and is a Zend Certified Engineer. He also founded the UK based PHP Hampshire user group and PHP South Coast conference.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/james.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/asgrim",
+        "github": "https:\/\/github.com\/asgrim",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/jamestitcumb"
+      },
+      "sessions": [
+        {
+          "title": "Crafting Quality PHP Applications",
+          "description": "This prototype works, but it's not pretty, and now it's in production. That legacy application really needs some TLC. Where do we start? When creating long lived applications, it's imperative to focus on good practices. The solution is to improve the whole development life cycle; from planning, better coding and testing, to automation, peer review and more. In this talk, we'll take a quick look into each of these areas, looking at how we can make positive, actionable change in our workflow.",
+          "keynote": 0,
+          "track": 1,
+          "session": 12,
+          "time": "16:30",
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "name": "Jenny Wong",
+      "title": "Community Engineer at Human Made",
+      "company": "Moneo",
+      "bio": "Once a Web Developer, Jenny now works as a Community Engineer at Human Made. When she started, she spent her first two weeks organizing a conference. She can often be found evangelizing open source community, event organiser and occasionally, speaker. Her days are varied: From solving issues with event sites & supporting organisers, to passionately cheering people on to contribute back to their communities. She loves cooking up elaborate ideas to help improve participation experiences in open source projects. When away from the laptop, she\u2019s usually binge watching Formula 1 & anime, doing house renovations or making a mess whilst cooking. You can find her on your messaging service of choice, making plenty of typos.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/jenny.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/miss_jwo",
+        "github": "https:\/\/github.com\/missjwo",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/jenny-wong-0a37b526\/"
+      },
+      "sessions": [
+        {
+          "title": "Serve PHP Happily",
+          "description": "The most common question or criticism about WordPress from PHP developers is: \u201cWhen will WordPress finally increase their minimum PHP version?\u201d In this talk Jenny will be sharing what WordPress has learnt from other PHP projects and how these lessons have informed the decision making and thought process of the WordPress efforts to upgrade. She will talk about the work being done with hosting providers, plugin authors and project Serve Happy. Come along to this talk if you want to find out what\u2019s on the cards for the future of WordPress and what you can learn on how to handle these kind of situations for your projects.",
+          "keynote": 0,
+          "track": 2,
+          "session": 13,
+          "time": "16:30",
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "name": "Juliette R. Folmer",
+      "title": "Self-employed developer",
+      "company": "Moneo",
+      "bio": "Juliette Reinders Folmer is an all round consultant and web-developer who tries not be a geek. Juliette is a long-standing member of PHPWomen which helped her immensely to find her feet in the PHP world. She is ZCE, actively contributes to a number of open source projects, has published several articles and speaks at conferences when given the chance. She loves it when you give her a chance to refactor spaghetti-code to something elegant and maintainable. Juliette is self-employed and based in the Netherlands.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/juliette.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/jrf_nl",
+        "github": "https:\/\/github.com\/jrfnl",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/julietterf\/"
+      },
+      "sessions": [
+        {
+          "title": "Don't work for PHPCS, make PHPCS work for you",
+          "description": "Congratulations! Your team has chosen a coding standard to use and you're well on your way to a consistent code style for all your projects. But... there are some extra things you'd like to check for, some rules you really can't be bothered with and some which sort of fit your needs, but not completely. Now what ? Come and learn how to make the PHP Codesniffer work for you and how to streamline the PHPCS related work-flow along the way.",
+          "keynote": 0,
+          "track": 2,
+          "session": 14,
+          "time": "17:00",
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "name": "Lemi Orhan Ergin",
+      "title": "Agile Software Craftsman at Craftbase",
+      "company": "Moneo",
+      "bio": "Lemi Orhan Ergin has been working as Agile Software Craftsman and Agile Practice Lead at Craftbase. He completed his undergraduate and graduate degree in Computer Engineering department of Marmara University. He has been actively developing software since 2001. He has worked as software architect, software craftsman, technical leader, team leader, technical coordinator, Scrum Master and Agile coach in dozens of software projects at BYM, GittiGidiyor \/ eBay and Sony. As a managing partner in ACM, he has provided consulting services to dozens of companies. He has led the establishment of agile software cultures, continuity and sustainability in software teams. He has been sharing his experience about Agile \/ Scrum, Kanban, Management 3.0, Git, ALM Processes, TDD, Clean Code, Agile Engineering Practices and Software Craftsmanship with hundreds of professionals. He has been a national and international conference speaker. Slides of his talks has been displayed more than 1 million times on the Internet. He works voluntarily in software communities. He is the founder of the Software Craftsmanship Turkey community. He had been the leader of the community and the product owner of Agile Turkey Summit and CraftSummit conferences for two years.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/lemi.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/lemiorhan",
+        "github": "https:\/\/github.com\/lemiorhan",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/lemiorhan"
+      },
+      "sessions": [
+        {
+          "title": "Temiz Kod Tasar\u0131m\u0131",
+          "description": "Programlama bir zanaat. \u00c7\u0131rakl\u0131ktan ustal\u0131\u011fa \u00e7\u0131kt\u0131\u011f\u0131n\u0131z yolculu\u011funuzda s\u00fcrekli geli\u015ftirdi\u011finiz bir h\u00fcner. Bu h\u00fcner, zaman i\u00e7erisinde daha kaliteli kodlar\u0131n \u00fcretilmesini sa\u011flamal\u0131. Ancak g\u00fcn\u00fcm\u00fczde \u00fcretilen kodlar\u0131n kalitesinden s\u0131kl\u0131kla \u015fikayet etmemizden bu alanda \u00e7ok da fazla a\u015fama kaydetmedi\u011fimizi anl\u0131yoruz. Bu konuda art\u0131k ciddi bir ad\u0131m atmak zorunday\u0131z. Programlaman\u0131n temellerine inmeli, temiz kod tasar\u0131m\u0131 i\u00e7in gereken ortam\u0131 nas\u0131l sa\u011flayabilece\u011fimizi konu\u015fmal\u0131y\u0131z. Bu oturumda Lemi bizlere temiz kod tasar\u0131m\u0131 yapabilmek i\u00e7in gereken ad\u0131mlardan, \u00e7o\u011funlukla yanl\u0131\u015f bilinen ger\u00e7eklerden ve bir yaz\u0131l\u0131mc\u0131 i\u00e7in ustala\u015fmaya giden yolculuktan bahsedecek.",
+          "keynote": 0,
+          "track": 2,
+          "session": 15,
+          "time": "17:30",
+          "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "Mark Baker",
+      "title": "Lead Developer at Paybreak; author of PHPOffice",
+      "company": "Moneo",
+      "bio": "Mark is Lead\/Senior Developer at Paybreak, a fintech company based in Altrincham near Manchester, UK. He has worked in the computer software industry since before symbolics.com was registered as a domain name, before \"cyberspace\" was first mentioned in fiction, when Linus Torvalds and Rasmus Lerdorf were still at high school, and Mrs. Zuckerberg had yet to give birth to a bouncing baby social network enabler; and has developed for the Web in many different languages since the days when the Tim Berners-Lee's creation comprised less than 1,000 sites. Over those years he has contributed to a number of open source projects: including a minor submission to PHP's SPL. Currently he is coordinator and lead developer for the PHPExcel library, and a coordinator and developer on the PHPOffice library suite. Most recently, he has been working on new datastructures such as Tries, Quadtrees and Matrices; hoping that he'll eventually be able to get them included in SPL. His particular interests include PHP integration with office suites, Generators, Textual analysis, Geodata and geographic information systems, and \"big data\" and data analysis.",
+      "avatar": "https:\/\/2018.phpkonf.org\/assets\/images\/speakers\/mark.jpg",
+      "social": {
+        "twitter": "https:\/\/twitter.com\/Mark_Baker",
+        "track": 1,
+        "github": "https:\/\/github.com\/MarkBaker",
+        "linkedin": "https:\/\/www.linkedin.com\/in\/mark-baker-171572b"
+      },
+      "sessions": [
+        {
+          "title": "Testing the Untestable",
+          "description": "When we need to write unit tests for an existing codebase - particularly for older legacy code, or even for badly designed modern code - we sometimes come upon classes and methods that simply cannot be tested, or where the effort to write tests far exceeds the effort than it probably took to write the code in the first place. In this presentation we'll examine some of the \"code smells\" that make it difficult to write tests - and look at why they cause problems - before looking at the options available to make them testable.",
+          "keynote": 0,
+          "track": 2,
+          "session": 16,
+          "time": "17:40",
+          "language": "English"
+        }
+      ]
+    }
+  ]
+  
