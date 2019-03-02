@@ -13,7 +13,7 @@
       },
       "sessions": [
         {
-          "title": "Microservices gone wrong",
+          "title": "Keynote: Microservices gone wrong",
           "description": "Microservices are the latest architectural trend to take the PHP community by storm. Is it a good pattern? How can you use it effectively? In this talk, we'll explore real world experience building out a large scale application based around microservices: what worked really well, what didn't work at all, and what we learned along the way. Spoiler alert: we got a lot wrong.",
           "keynote": 1,
           "track": 1,
@@ -138,7 +138,7 @@
       },
       "sessions": [
         {
-          "title": "Keynote: 2020'de PHP",
+          "title": "2020'de PHP",
           "description": "PHP 25 yıllık dinamik tipli (dynamically typed) bir yazılım dili. 2015 yılında yayınlanan 7.0 sürümüyle gelen Scalar & Return type declarations ile yarı dinamik, yarı statik (gradually typed) bir dil oldu. Aralık 2019'da yayınlanacak PHP 7.4 ile de PHP'e statik tip (statically typed) desteği ekleniyor. Oturumda PHP ile static typing'i PHP 7.4 üzerinden detaylarıyla inceleyecek, PHP 7.4 ve PHP 8.0'da hayatımıza girecek diğer özelliklere göz atacağız.",
           "keynote": 0,
           "track": 2,
