@@ -1270,7 +1270,7 @@ address {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    width: 21.875rem;
+    width: 15.875rem;
     height: 12.5rem;
     -webkit-box-align: center;
     -ms-flex-align: center;
@@ -1279,7 +1279,10 @@ address {
     -ms-flex-pack: center;
     justify-content: center;
     margin: 0 auto;
-    background-color: #fff; }
+  }
+    .c-sponsor-image__figure img {
+      width: 200px;
+    }
   .c-sponsor-image::after {
     position: absolute;
     z-index: 0;
@@ -1291,13 +1294,23 @@ address {
     border: 1px solid transparent;
     border-radius: 50%;
     content: '';
+    border-color: #ffd401;
     -webkit-transform: translate(-50%);
     -ms-transform: translate(-50%);
     transform: translate(-50%); }
   .c-sponsor-image.main::after {
+    -webkit-box-shadow: 0px 0px 30px 0px #ffd401;
+    -moz-box-shadow: 0px 0px 30px 0px #ffd401;
+    box-shadow: 0px 0px 30px 0px #ffd401;
+    background-color: #fff;
     border-color: #ffd401; }
   .c-sponsor-image.secondary::after {
-    border-color: #666; }
+    background-color: #fff;
+    border-color: #ffd401;
+    -webkit-box-shadow: 0px 0px 20px 0px #ffd401;
+    -moz-box-shadow: 0px 0px 20px 0px #ffd401;
+    box-shadow: 0px 0px 20px 0px #ffd401;
+   }
 
 .c-ticket-card {
   position: relative;
