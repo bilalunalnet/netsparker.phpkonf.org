@@ -1090,6 +1090,8 @@ address {
       color: #ffd401; }
     .c-sponsors__main-text.platinum {
       color: #efefef; }
+    .c-sponsors__main-text.gold {
+      margin-top: 0.25em; }
   .c-sponsors__decoration {
     width: 230px; }
     .c-sponsors__decoration--main {
@@ -4773,7 +4775,7 @@ small,
   max-width: 600px;
 }
 .speaker-modal hr {
-  color: #f9d047; 
+  color: #f9d047;
 }
 .speaker-modal .c-speaker-card {
   margin-bottom: 0;
@@ -4782,7 +4784,7 @@ small,
 .speaker-modal .c-speaker-image::after {
   width: 100% !important;
   transition: none;
-  transform: none;  
+  transform: none;
 }
 
 .mobile-navigation {
@@ -4795,9 +4797,9 @@ small,
   position: relative;
   top: 2.9rem;
   left: 1.5rem;
-  
+
   z-index: 1;
-  
+
   -webkit-user-select: none;
   user-select: none;
 }
@@ -4807,26 +4809,26 @@ small,
   height: 32px;
   position: absolute;
   top: -7px;
-  left: -5px;  
+  left: -5px;
   cursor: pointer;
   opacity: 0;
   z-index: 2;
   -webkit-touch-callout: none;
 }
-.mobile-navigation .toggle span { 
+.mobile-navigation .toggle span {
  display: block;
   width: 33px;
   height: 4px;
   margin-bottom: 5px;
   position: relative;
-  
+
   background: #f9d047;
   border-radius: 3px;
-  
+
   z-index: 1;
-  
+
   transform-origin: 4px 0px;
-  
+
   transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
               background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
               opacity 0.55s ease;
@@ -4834,10 +4836,10 @@ small,
   -webkit-box-shadow: 0 0.3125rem 0.625rem rgba(255, 212, 1, 0.39);
     box-shadow: 0 0.3125rem 0.625rem rgba(255, 212, 1, 0.39);
 }
-.mobile-navigation .toggle span:first-child { 
+.mobile-navigation .toggle span:first-child {
   transform-origin: 0% 0%;
 }
-.mobile-navigation .toggle span:nth-last-child(2) { 
+.mobile-navigation .toggle span:nth-last-child(2) {
   transform-origin: 0% 100%;
 }
 .mobile-navigation .toggle input:checked ~ span {
@@ -4859,14 +4861,14 @@ small,
   margin: -70px 0 0 -50px;
   padding: 50px;
   padding-top: 125px;
-  
+
   background: url("../img/speakers-page-bg.png") #000;
   list-style-type: none;
   -webkit-font-smoothing: antialiased;
-  
+
   transform-origin: 0% 0%;
   transform: translate(-100%, 0);
-  
+
   transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
 }
 .mobile-navigation .menu li {
