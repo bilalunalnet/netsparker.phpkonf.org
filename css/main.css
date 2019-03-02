@@ -1102,12 +1102,14 @@ address {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    flex-wrap: wrap;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center; }
     .c-sponsors__sponsor:not(:first-child) {
       margin-top: 4.375rem; }
   .c-sponsors__element {
+    margin-bottom: 5rem;
     margin-right: 1rem;
     margin-left: 1rem; }
 
@@ -1308,10 +1310,10 @@ address {
     border-color: #ffd401; }
   .c-sponsor-image.secondary::after {
     background-color: #fff;
-    border-color: #ffd401;
-    -webkit-box-shadow: 0px 0px 20px 0px #ffd401;
-    -moz-box-shadow: 0px 0px 20px 0px #ffd401;
-    box-shadow: 0px 0px 20px 0px #ffd401;
+    border-color: #666666;
+    -webkit-box-shadow: 0px 0px 40px 0px #666666;
+    -moz-box-shadow: 0px 0px 20px 0px #666666;
+    box-shadow: 0px 0px 40px 0px #666666;
    }
 
 .c-ticket-card {
