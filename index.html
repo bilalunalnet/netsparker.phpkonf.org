@@ -207,11 +207,11 @@
         <div class="row">
           <div class="col col--md-6 col--xs-12 extra-col">
             <div class="c-schedule__title u-text-center"></div>
-            <span class="c-schedule__text"><span class="c-schedule__inner-text">Teknasyon Track</span></span>
+            <span class="c-schedule__text"><span class="c-schedule__inner-text">Netsparker Track</span></span>
           </div>
           <div class="col col--md-6 col--xs-12 extra-col">
             <div class="c-schedule__title u-text-center"></div>
-            <span class="c-schedule__text"><span class="c-schedule__inner-text">Netsparker Track</span></span>
+            <span class="c-schedule__text"><span class="c-schedule__inner-text">Teknasyon Track</span></span>
           </div>
         </div>
       </div>
@@ -219,7 +219,7 @@
         <div class="container">
 
           <div class="" v-for="schedule in getSchedule()">
-            <div class="row c-timeline__row c-timeline__row--push-right">
+            <div :class="schedule[0].class">
               <div class="col col--md-6 col--sm-12" v-for="session in schedule">
                 <div class="c-timeline__item c-timeline__item--left c-timeline__item-mt" v-if="session.track == 1">
                   <div class="c-timeline__clock c-timeline__clock--push-right">

@@ -35,7 +35,13 @@ var App = new Vue({
             sessions.sort((a, b) => a.session - b.session);
 
             for (const session of sessions) {
-                schedules.push(sessions.filter(x => x.time === session.time).sort((a, b) => a.track - b.track));
+                let temp = sessions.filter(x => x.time === session.time).sort((a, b) => a.track - b.track)
+                if (temp.length === 1) {
+                    temp[0].class = "row c-timeline__row c-timeline__row--push-left";
+                } else {
+                    temp[0].class = "row c-timeline__row c-timeline__row--push-right";
+                }
+                schedules.push(temp);
                 sessions.splice(sessions.findIndex(e => e.time === session.time),1);
             }
             
