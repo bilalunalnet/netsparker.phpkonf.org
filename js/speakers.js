@@ -1,9 +1,10 @@
-var dataURL = '/data/speakers.json';
+var dataURL = 'data/speakers.json';
 
 var App = new Vue({
     el: '#app',
     data: {
         speakers: [],
+        modal: ''
     },
     mounted() {
         axios.get(
@@ -13,6 +14,10 @@ var App = new Vue({
                 this.speakers = response.data;
             }
         );
+
+        axios.get('speaker-modal.html').then(response => {
+            this.modal = _.template(response.data);
+        });
     },
     methods: {
         getSpeakers: function () {
@@ -49,6 +54,9 @@ var App = new Vue({
         },
         getRandomSpeakers: function() {
             return _.sampleSize(this.speakers, 6);
+        },
+        openModal: function(speaker) {
+            $.fancybox.open(this.modal(speaker),{ 'animationEffect' : 'tube' });
         }
     }
 });
