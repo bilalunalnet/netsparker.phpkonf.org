@@ -3899,6 +3899,7 @@ small,
     .c-hero__logo {
       width: 100%; }
     .c-hero__subtext {
+      padding: 0 10px;
       font-size: 1.125rem; }
     .c-about {
       padding-top: 6.25rem;
@@ -4742,6 +4743,19 @@ small,
         padding-left: 6rem; }
       .u-pad-right-2xlarge\@lg-down {
         padding-right: 6rem; } }
+.dropshadow {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  background: rgba(0,0,0,.8);
+  cursor: default;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
 
 .fancybox-content {
   border: 1px solid #f9d047;
@@ -4754,7 +4768,7 @@ small,
   height: 100%;
 }
 .speaker-modal {
-  background: #000;
+  background: url("../img/speakers-page-bg.png") #000;
   width: 100%;
   max-width: 600px;
 }
@@ -4769,4 +4783,149 @@ small,
   width: 100% !important;
   transition: none;
   transform: none;  
+}
+
+.mobile-navigation {
+  position: absolute;
+  z-index: 10;
+  transition: background-color 0.3s;
+}
+.mobile-navigation .toggle {
+  display: inline-block;
+  position: relative;
+  top: 2.9rem;
+  left: 1.5rem;
+  
+  z-index: 1;
+  
+  -webkit-user-select: none;
+  user-select: none;
+}
+.mobile-navigation .toggle input {
+  display: block;
+  width: 40px;
+  height: 32px;
+  position: absolute;
+  top: -7px;
+  left: -5px;  
+  cursor: pointer;
+  opacity: 0;
+  z-index: 2;
+  -webkit-touch-callout: none;
+}
+.mobile-navigation .toggle span { 
+ display: block;
+  width: 33px;
+  height: 4px;
+  margin-bottom: 5px;
+  position: relative;
+  
+  background: #f9d047;
+  border-radius: 3px;
+  
+  z-index: 1;
+  
+  transform-origin: 4px 0px;
+  
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+
+  -webkit-box-shadow: 0 0.3125rem 0.625rem rgba(255, 212, 1, 0.39);
+    box-shadow: 0 0.3125rem 0.625rem rgba(255, 212, 1, 0.39);
+}
+.mobile-navigation .toggle span:first-child { 
+  transform-origin: 0% 0%;
+}
+.mobile-navigation .toggle span:nth-last-child(2) { 
+  transform-origin: 0% 100%;
+}
+.mobile-navigation .toggle input:checked ~ span {
+  opacity: 1;
+  transform: rotate(45deg) translate(-2px, -1px);
+  background: #f9d047;
+}
+.mobile-navigation .toggle input:checked ~ span:nth-last-child(3) {
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+.mobile-navigation .toggle input:checked ~ span:nth-last-child(2) {
+  transform: rotate(-45deg) translate(0, -1px);
+}
+.mobile-navigation .menu {
+  position: absolute;
+  width: 340px;
+  height: 100vh;
+  margin: -70px 0 0 -50px;
+  padding: 50px;
+  padding-top: 125px;
+  
+  background: url("../img/speakers-page-bg.png") #000;
+  list-style-type: none;
+  -webkit-font-smoothing: antialiased;
+  
+  transform-origin: 0% 0%;
+  transform: translate(-100%, 0);
+  
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
+.mobile-navigation .menu li {
+  padding: 10px 0;
+  font-size: 28px;
+}
+.mobile-navigation .toggle input:checked ~ ul {
+  transform: none;
+}
+.mobile-navigation .logo {
+  display: none;
+  width: 180px;
+  height: auto;
+  position: absolute;
+  top: 15px;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+}
+
+body.fixed-header .mobile-navigation {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 60px;
+  background: #000;
+  border-color: #f9d047;
+  border-bottom: 1px solid #f9d047;
+  transition: border-color 0.3s ease-in-out;
+  box-shadow: 10px 0 10px #000;
+}
+
+body.fixed-header .mobile-navigation .toggle {
+  top: 20px;
+}
+
+body.fixed-header .mobile-navigation .menu {
+  margin-top: -47px;
+}
+
+body.fixed-header .mobile-navigation .logo {
+  display: block;
+}
+
+body.mobile-menu-open {
+  overflow: hidden;
+}
+
+body.fixed-header.mobile-menu-open .mobile-navigation {
+  border-color: #000;
+}
+
+body.mobile-menu-open .dropshadow {
+  visibility: visible;
+  opacity: 1;
+}
+
+@media (min-width: 1025px) {
+  .mobile-navigation {
+    display: none;
+  }
 }
