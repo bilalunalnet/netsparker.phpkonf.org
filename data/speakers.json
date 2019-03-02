@@ -88,7 +88,7 @@
           "description": "Teknolojinin hızla geliştiği, çeşitliliğin ve alternatiflerin hızla arttığı günümüzde; bu gelişmeler geliştiricilerin bir yandan işlerini kolaylaştırken bir yandan da projelerin bireysel deneylere dönüşmesi riskini  yanında getiriyor. Yeni gelişmelerin dışında kalmadan, kendimizi adapte etmeye çalışırken diğer taraftan verebileceğimiz yanlış kararlar ile projelerin kaderlerini etkileyebilir yada bizden sonraki gelecek geliştiricilerin hayatının zorlaştırabiliriz. Oturumda bu dengeyi nasıl kurmalıyız sorusunun cevabını arayacağız.",
           "keynote": 0,
           "track": 2,
-          "session": 9,
+          "session": 5,
           "time": "14:00",
           "finish": "14:40",
           "language": "Türkçe"
@@ -280,7 +280,7 @@
           "description": "Modern bir yazılım projesinde son kullanıcı uygulaması, yönetim uygulaması, tekrar eden görevleri yerine getiren komut satırı uygulamaları gibi birbirinden bağımsız parçalar bulunur. Ek olarak ihtiyaç duyulan API’lar, kuyruklar ile bu yapı daha da büyür. Uygulamamızın kalbinde duran işleme mantığı bu yapıda her yere sızma eğilimindedir. Bu nedenle işleme mantığını, uygulamanın kullandığı ortamı, iletişim kurduğu network servislerini bir birinden ayırmak hayatidir. Oturumda, yukarıda bahsedilen problemin çözümüne yönelik Alistair Cockburn’ün Ports and Adapters (Hexagonal Mimari diye de bilinir) isimli yazılım mimarisi tasarısı özelinde “temiz mimarinin” detaylarından bahsedilecek.",
           "keynote": 0,
           "track": 2,
-          "session": 5,
+          "session": 9,
           "time": "17:20",
           "finish": "18:00",
           "language": "Turkish"
