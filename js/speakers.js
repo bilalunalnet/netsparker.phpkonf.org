@@ -53,7 +53,7 @@ var App = new Vue({
             return schedules;
         },
         getRandomSpeakers: function() {
-            return _.sampleSize(this.speakers, 6);
+            return this.speakers.filter(x => x.homepage === true);
         },
         openModal: function(speaker) {
             $.fancybox.open(this.modal(speaker),{ 'animationEffect' : 'tube' });
