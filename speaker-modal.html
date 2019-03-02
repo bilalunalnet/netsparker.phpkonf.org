@@ -1,0 +1,36 @@
+<div class="speaker-modal">
+	<div class="c-speaker-card"  v-on:click="openModal(item)">
+	  <div class="c-speaker-image">
+	    <img src="<%= avatar %>" alt="" class="c-speaker-image__image" />
+	  </div>
+	  <div class="c-speaker-card__content">
+	    <h3 class="c-speaker-card__title"><%= name %></h3>
+	    <span class="c-speaker-card__with-jobs"><%= title %><span class="c-speaker-card__hastag">@<%= company %></span></span>
+	    <hr>
+	    <p class="bio"><%= bio %></p>
+	    <ul class="c-speaker-card__menu">
+        <li class="c-speaker-card__menu-item">
+          <a href="<%= social.twitter %>" target="_blank" class="c-speaker-card__menu-link">
+            <svg class="icon">
+              <use xlink:href="#icon-twitter"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="c-speaker-card__menu-item">
+          <a href="<%= social.github %>" target="_blank" class="c-speaker-card__menu-link github">
+            <svg class="icon">
+              <use xlink:href="#icon-github"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="c-speaker-card__menu-item">
+          <a href="<%= social.linkedin %>" target="_blank" class="c-speaker-card__menu-link">
+            <svg class="icon">
+              <use xlink:href="#icon-linkedin"></use>
+            </svg>
+          </a>
+        </li>
+      </ul>
+	  </div>
+	</div>
+</div>

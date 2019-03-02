@@ -795,6 +795,8 @@ address {
   .c-timeline__speaker {
     margin-top: 1.5rem; }
   .c-timeline__image {
+    -webkit-filter: sepia(70%); /* Safari */
+    filter: sepia(70%);
     border-radius: 50%;
     width: 2rem;
     height: 2rem; }
@@ -1211,13 +1213,16 @@ address {
     position: relative;
     top: 50%;
     border-radius: 50%;
+    -webkit-filter: sepia(70%); /* Safari */
+    filter: sepia(70%);
     -webkit-transform: translate(0, -50%);
     -ms-transform: translate(0, -50%);
     transform: translate(0, -50%); }
 
 .c-speaker-card {
   position: relative;
-  margin-bottom: 3rem; }
+  margin-bottom: 3rem;
+  cursor: pointer; }
   .c-speaker-card__content {
     text-align: center; }
   .c-speaker-card__title {
@@ -4719,3 +4724,31 @@ small,
         padding-left: 6rem; }
       .u-pad-right-2xlarge\@lg-down {
         padding-right: 6rem; } }
+
+.fancybox-content {
+  border: 1px solid #f9d047;
+  background: none;
+}
+.fancybox-button {
+  color: #f9d047 !important;
+}
+.fancybox-active {
+  height: 100%;
+}
+.speaker-modal {
+  background: #000;
+  width: 100%;
+  max-width: 600px;
+}
+.speaker-modal hr {
+  color: #f9d047; 
+}
+.speaker-modal .c-speaker-card {
+  margin-bottom: 0;
+  cursor: default;
+}
+.speaker-modal .c-speaker-image::after {
+  width: 100% !important;
+  transition: none;
+  transform: none;  
+}
