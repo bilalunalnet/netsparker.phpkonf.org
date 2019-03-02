@@ -100,7 +100,7 @@
       "company": "JetBrains",
       "title": "Software Developer",
       "bio": "Hi! My name is Nikita Popov, but you’ll mostly meet me as nikic on the internet. I’m working as a software developer at JetBrains on the PhpStorm team. Before that, I studied computer science and physics at the Technical University of Berlin. I contribute to the PHP and LLVM projects and maintain a number of open-source PHP libraries.",
-      "avatar": "/img/speakers/nikita-popov.jpg",
+      "avatar": "/img/speakers/nikita.jpg",
       "social": {
         "twitter": "https://twitter.com/nikita_ppv",
         "github": "https://github.com/nikic",
@@ -172,7 +172,7 @@
       "company": "Adobe",
       "title": "Magento Evangelist",
       "bio": "Ben began his career in PHP building commercial sites in 2003, focusing on Magento since 2008 and joining the ranks of Magento as their sole evangelist in 2014. He believes that the boundless requirements of commerce provide some of the best fodder for development (and for conference discussions). Always a learner, frequently a teacher, his approach to speaking and attending conferences is to find the story, enjoyment, and (often) humor in every situation.\n",
-      "avatar": "/img/speakers/ben.jpg",
+      "avatar": "/img/speakers/ben-marks.jpg",
       "social": {
         "twitter": "https://twitter.com/benmarks",
         "github": "https://github.com/benmarks",
@@ -244,7 +244,7 @@
       "company": "Teknasyon Teknoloji",
       "title": "Co-founder",
       "bio": "Software architect and developer. Co-founder at Teknasyon Teknoloji. Using PHP, web technologies and Linux systems since 1999. Creates high performance solutions at Mobile area.",
-      "avatar": "/img/speakers/fatih-ustundag.jpg",
+      "avatar": "/img/speakers/fatih.jpg",
       "social": {
         "twitter": "https://twitter.com/fustundag",
         "github": "https://github.com/fustundag",
