@@ -140,7 +140,7 @@
         <img src="img/decoration-image01.png" alt="" class="c-speaker__decoration-image" />
       </div>
       <img src="img/decoration.png" alt="" class="c-speaker__decoration-image-02" />
-  
+
       <div class="c-speaker__speakers">
         <div class="c-title">
           <h1 class="c-title__text">Speakers</h1>
@@ -148,7 +148,7 @@
             <use xlink:href="#icon-arrow-down"></use>
           </svg>
         </div>
-  
+
         <div class="c-speaker__content">
           <div class="container">
             <div class="row">
@@ -159,7 +159,8 @@
                   </div>
                   <div class="c-speaker-card__content">
                     <h3 class="c-speaker-card__title">{{ item.name }}</h3>
-                    <span class="c-speaker-card__with-jobs">{{ item.title }} <span class="c-speaker-card__hastag">@{{ item.company }}</span></span>
+                    <span class="c-speaker-card__with-jobs">{{ item.title }} <span class="c-speaker-card__hastag">@{{
+                        item.company }}</span></span>
                     <ul class="c-speaker-card__menu">
                       <li class="c-speaker-card__menu-item">
                         <a :href="item.social.twitter" class="c-speaker-card__menu-link">
@@ -201,7 +202,7 @@
           <use xlink:href="#icon-arrow-down"></use>
         </svg>
       </div>
-  
+
       <div class="container u-gap-top-xlarge c-schedule__desktop">
         <div class="row">
           <div class="col col--md-6 col--xs-12 extra-col">
@@ -216,11 +217,11 @@
       </div>
       <div class="c-timeline">
         <div class="container">
-          
-          <div class="c-timeline__row" v-for="schedule in getSchedule()">
+
+          <div class="" v-for="schedule in getSchedule()">
             <div class="row c-timeline__row c-timeline__row--push-right">
               <div class="col col--md-6 col--sm-12" v-for="session in schedule">
-                <div class="c-timeline__item c-timeline__item--left" v-if="session.track == 1">
+                <div class="c-timeline__item c-timeline__item--left c-timeline__item-mt" v-if="session.track == 1">
                   <div class="c-timeline__clock c-timeline__clock--push-right">
                     <svg class="icon c-timeline__icon">
                       <use xlink:href="#icon-clock"></use>
@@ -233,37 +234,37 @@
                     {{ session.description }}
                   </p>
                   <div class="c-timeline__speaker">
-                    <img src="https://2018.phpkonf.org/assets/images/speakers/fatih.jpg" alt="" class="c-timeline__image" />
+                    <img :src="session.avatar" alt="" class="c-timeline__image" />
                     <span class="c-timeline__person">{{ session.name }}</span>
                   </div>
                 </div>
 
                 <!-- ELSE -->
-                <div class="c-timeline__item c-timeline__item--right" v-else>
-                    <div class="c-timeline__clock c-timeline__clock--push-left">
-                      <svg class="icon c-timeline__icon">
-                        <use xlink:href="#icon-clock"></use>
-                      </svg>
-                      {{ session.time }} - {{ session.finish }}
-                    </div>
-                    <span class="c-schedule__mobile">Netsparker Track</span>
-                    <h3 class="c-timeline__title c-timeline__title--right">
-                        {{ session.title }}
-                    </h3>
-                    <p class="c-timeline__info">
-                        {{ session.description }}
-                    </p>
-                    <div class="c-timeline__speaker">
-                      <img :src="session.avatar" alt="" class="c-timeline__image" />
-                      <span class="c-timeline__person">{{ session.name }}</span>
-                    </div>
+                <div class="c-timeline__item c-timeline__item--right c-timeline__item-mt" v-else>
+                  <div class="c-timeline__clock c-timeline__clock--push-left">
+                    <svg class="icon c-timeline__icon">
+                      <use xlink:href="#icon-clock"></use>
+                    </svg>
+                    {{ session.time }} - {{ session.finish }}
                   </div>
+                  <span class="c-schedule__mobile">Netsparker Track</span>
+                  <h3 class="c-timeline__title c-timeline__title--right">
+                    {{ session.title }}
+                  </h3>
+                  <p class="c-timeline__info">
+                    {{ session.description }}
+                  </p>
+                  <div class="c-timeline__speaker">
+                    <img :src="session.avatar" alt="" class="c-timeline__image" />
+                    <span class="c-timeline__person">{{ session.name }}</span>
+                  </div>
+                </div>
               </div>
 
             </div>
           </div>
-          
-          <div class="row c-timeline__row">
+
+          <div class="row">
             <div class="c-timeline__clock--center">
               <svg class="icon c-timeline__icon--center">
                 <use xlink:href="#icon-clock"></use>
@@ -280,7 +281,7 @@
       </div>
     </div>
   </div>
-  
+
   <div class="c-tickets">
     <div class="c-title">
       <h1 class="c-title__text">Tickets</h1>

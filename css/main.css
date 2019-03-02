@@ -741,7 +741,6 @@ address {
     overflow: auto;
     height: auto;
     resize: none; }
-
 .c-timeline {
   padding-left: 0;
   margin-bottom: 0;
@@ -775,6 +774,9 @@ address {
     margin-top: 6.25rem; }
   .c-timeline__item {
     position: relative; }
+    .c-timeline__item-mt {
+      margin-bottom: 6.25rem !important;
+    }
     .c-timeline__item--right {
       padding-left: 5rem;
       text-align: left; }
