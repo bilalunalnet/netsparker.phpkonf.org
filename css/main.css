@@ -3496,6 +3496,7 @@ small,
           padding-left: 1rem; }
         .c-timeline__item--left {
           padding-left: 1rem;
+          padding-right: 1rem;
           text-align: left; }
       .c-timeline__clock {
         right: 0;
