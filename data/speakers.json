@@ -290,13 +290,13 @@
     {
       "name": "Uğur Erkan",
       "company": "Rebase",
-      "title": "Software Developer",
+      "title": "Co-founder",
       "bio": "Juliette Reinders Folmer is an all round consultant and web-developer who tries not be a geek. Juliette is a long-standing member of PHPWomen which helped her immensely to find her feet in the PHP world. She is ZCE, actively contributes to a number of open source projects, has published several articles and speaks at conferences when given the chance. She loves it when you give her a chance to refactor spaghetti-code to something elegant and maintainable. Juliette is self-employed and based in the Netherlands.",
       "avatar": "ugur.jpg",
       "social": {
-        "twitter": "https://twitter.com/jrf_nl",
-        "github": "https://github.com/jrfnl",
-        "linkedin": "https://www.linkedin.com/in/julietterf/"
+        "twitter": "https://twitter.com/ugurerkan",
+        "github": "https://github.com/ugurerkan",
+        "linkedin": "https://www.linkedin.com/in/ugurerkann"
       },
       "sessions": [
         {
