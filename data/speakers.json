@@ -25,6 +25,31 @@
       ]
     },
     {
+      "name": "Gabi Davila",
+      "homepage": true,
+      "company": "Google",
+      "title": "Developer Advocate",
+      "bio": "Gabi is a Developer Advocate at Google Cloud and a passionate Software Engineer. She likes simplifying complex systems, and believes abstractions are best when they can be understood in a real life example. She’s driven to go beyond DBA lingo to make database and storage technology more accessible to software developers.",
+      "avatar": "/img/speakers/gabi.jpg",
+      "social": {
+        "twitter": "http://www.twitter.com/gabidavila",
+        "github": "http://github.com/gabidavila",
+        "linkedin": "http://linkedin.com/in/gabidavila"
+      },
+      "sessions": [
+        {
+          "title": "MySQL 8.0: Not only Good, GREAT!",
+          "description": "Sick and tired of \"X technology is only good for starting out; after you do, move to Y\"? Good news - you don’t need to move away, you just need to get in further! In this talk, you'll learn about improvements in the newest version of the most used database in the world. What are Window Functions? How do you use CTEs? How can the new default encoding help me and what should I look for when upgrading versions?",
+          "keynote": 0,
+          "track": 1,
+          "session": 2,
+          "time": "11:00",
+          "finish": "11:40",
+          "language": "English"
+        }
+      ]
+    },
+    {
       "name": "Derick Rethans",
       "homepage": true,
       "company": "MongoDB",
@@ -45,6 +70,56 @@
           "session": 4,
           "time": "12:40",
           "finish": "13:20",
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "name": "Nikita Popov",
+      "homepage": true,
+      "company": "JetBrains",
+      "title": "Software Developer",
+      "bio": "Hi! My name is Nikita Popov, but you’ll mostly meet me as nikic on the internet. I’m working as a software developer at JetBrains on the PhpStorm team. Before that, I studied computer science and physics at the Technical University of Berlin. I contribute to the PHP and LLVM projects and maintain a number of open-source PHP libraries.",
+      "avatar": "/img/speakers/nikita.jpg",
+      "social": {
+        "twitter": "https://twitter.com/nikita_ppv",
+        "github": "https://github.com/nikic",
+        "linkedin": "https://www.linkedin.com/in/nikita-popov-16973990"
+      },
+      "sessions": [
+        {
+          "title": "Looking Forward to PHP 8",
+          "description": "While PHP 7.4 is not released yet, development has already started on the next major version: PHP 8. This talk will discuss features that have already landed, as well as backwards compatibility breaks to look out for. We'll also talk about the planned just-in-time (JIT) compiler, which promises further performance improvements.\n\nAs PHP 8 is still in early development, the final feature set is not yet known. Part of this talk will be more speculative and discuss functionality that people plan to work on, but that will not necessarily make the release. Maybe your feedback can help us focus on what is most important.",
+          "keynote": 0,
+          "track": 1,
+          "session": 7,
+          "time": "15:40",
+          "finish": "16:20",
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "name": "Ben Marks",
+      "homepage": true,
+      "company": "Adobe",
+      "title": "Magento Evangelist",
+      "bio": "Ben began his career in PHP building commercial sites in 2003, focusing on Magento since 2008 and joining the ranks of Magento as their sole evangelist in 2014. He believes that the boundless requirements of commerce provide some of the best fodder for development (and for conference discussions). Always a learner, frequently a teacher, his approach to speaking and attending conferences is to find the story, enjoyment, and (often) humor in every situation.\n",
+      "avatar": "/img/speakers/ben-marks.jpg",
+      "social": {
+        "twitter": "https://twitter.com/benmarks",
+        "github": "https://github.com/benmarks",
+        "linkedin": "https://www.linkedin.com/in/bhmarks/"
+      },
+      "sessions": [
+        {
+          "title": "PWA for PHP Developers",
+          "description": "Progressive Web Apps are an emerging approach to solving the problem of having the Web, everywhere: different mobile devices, IoT devices, and areas with low bandwidth or poor connectivity. For developers accustomed to PHP and server-side rendering, there are several factors to consider. Drawing on our experiences working with Google to build a PWA development experience for Magento, this talk introduces the elements of PWA, the challenges of providing online+offline functionality, and the limitations of this nascent approach.",
+          "keynote": 0,
+          "track": 1,
+          "session": 5,
+          "time": "14:00",
+          "finish": "14:40",
           "language": "English"
         }
       ]
@@ -100,56 +175,6 @@
       ]
     },
     {
-      "name": "Nikita Popov",
-      "homepage": true,
-      "company": "JetBrains",
-      "title": "Software Developer",
-      "bio": "Hi! My name is Nikita Popov, but you’ll mostly meet me as nikic on the internet. I’m working as a software developer at JetBrains on the PhpStorm team. Before that, I studied computer science and physics at the Technical University of Berlin. I contribute to the PHP and LLVM projects and maintain a number of open-source PHP libraries.",
-      "avatar": "/img/speakers/nikita.jpg",
-      "social": {
-        "twitter": "https://twitter.com/nikita_ppv",
-        "github": "https://github.com/nikic",
-        "linkedin": "https://www.linkedin.com/in/nikita-popov-16973990"
-      },
-      "sessions": [
-        {
-          "title": "Looking Forward to PHP 8",
-          "description": "While PHP 7.4 is not released yet, development has already started on the next major version: PHP 8. This talk will discuss features that have already landed, as well as backwards compatibility breaks to look out for. We'll also talk about the planned just-in-time (JIT) compiler, which promises further performance improvements.\n\nAs PHP 8 is still in early development, the final feature set is not yet known. Part of this talk will be more speculative and discuss functionality that people plan to work on, but that will not necessarily make the release. Maybe your feedback can help us focus on what is most important.",
-          "keynote": 0,
-          "track": 1,
-          "session": 7,
-          "time": "15:40",
-          "finish": "16:20",
-          "language": "English"
-        }
-      ]
-    },
-    {
-      "name": "Gabi Davila",
-      "homepage": true,
-      "company": "Google",
-      "title": "Developer Advocate",
-      "bio": "Gabi is a Developer Advocate at Google Cloud and a passionate Software Engineer. She likes simplifying complex systems, and believes abstractions are best when they can be understood in a real life example. She’s driven to go beyond DBA lingo to make database and storage technology more accessible to software developers.",
-      "avatar": "/img/speakers/gabi.jpg",
-      "social": {
-        "twitter": "http://www.twitter.com/gabidavila",
-        "github": "http://github.com/gabidavila",
-        "linkedin": "http://linkedin.com/in/gabidavila"
-      },
-      "sessions": [
-        {
-          "title": "MySQL 8.0: Not only Good, GREAT!",
-          "description": "Sick and tired of \"X technology is only good for starting out; after you do, move to Y\"? Good news - you don’t need to move away, you just need to get in further! In this talk, you'll learn about improvements in the newest version of the most used database in the world. What are Window Functions? How do you use CTEs? How can the new default encoding help me and what should I look for when upgrading versions?",
-          "keynote": 0,
-          "track": 1,
-          "session": 2,
-          "time": "11:00",
-          "finish": "11:40",
-          "language": "English"
-        }
-      ]
-    },
-    {
       "name": "Taylor Lovett",
       "homepage": false,
       "company": "10up",
@@ -170,31 +195,6 @@
           "session": 3,
           "time": "11:50",
           "finish": "12:30",
-          "language": "English"
-        }
-      ]
-    },
-    {
-      "name": "Ben Marks",
-      "homepage": true,
-      "company": "Adobe",
-      "title": "Magento Evangelist",
-      "bio": "Ben began his career in PHP building commercial sites in 2003, focusing on Magento since 2008 and joining the ranks of Magento as their sole evangelist in 2014. He believes that the boundless requirements of commerce provide some of the best fodder for development (and for conference discussions). Always a learner, frequently a teacher, his approach to speaking and attending conferences is to find the story, enjoyment, and (often) humor in every situation.\n",
-      "avatar": "/img/speakers/ben-marks.jpg",
-      "social": {
-        "twitter": "https://twitter.com/benmarks",
-        "github": "https://github.com/benmarks",
-        "linkedin": "https://www.linkedin.com/in/bhmarks/"
-      },
-      "sessions": [
-        {
-          "title": "PWA for PHP Developers",
-          "description": "Progressive Web Apps are an emerging approach to solving the problem of having the Web, everywhere: different mobile devices, IoT devices, and areas with low bandwidth or poor connectivity. For developers accustomed to PHP and server-side rendering, there are several factors to consider. Drawing on our experiences working with Google to build a PWA development experience for Magento, this talk introduces the elements of PWA, the challenges of providing online+offline functionality, and the limitations of this nascent approach.",
-          "keynote": 0,
-          "track": 1,
-          "session": 5,
-          "time": "14:00",
-          "finish": "14:40",
           "language": "English"
         }
       ]
