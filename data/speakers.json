@@ -18,7 +18,7 @@
           "track": 1,
           "session": 1,
           "time": "10:00",
-          "finish": "11:00",
+          "finish": "10:40",
           "language": "English"
         }
       ]
@@ -41,8 +41,8 @@
           "keynote": 0,
           "track": 1,
           "session": 4,
-          "time": "12:00",
-          "finish": "12:30",
+          "time": "12:40",
+          "finish": "13:20",
           "language": "English"
         }
       ]
@@ -66,7 +66,7 @@
           "track": 2,
           "session": 2,
           "time": "11:00",
-          "finish": "11:30",
+          "finish": "11:40",
           "language": "Türkçe"
         }
       ]
@@ -89,8 +89,8 @@
           "keynote": 0,
           "track": 2,
           "session": 9,
-          "time": "16:00",
-          "finish": "16:30",
+          "time": "14:00",
+          "finish": "14:40",
           "language": "Türkçe"
         }
       ]
@@ -113,8 +113,8 @@
           "keynote": 0,
           "track": 1,
           "session": 7,
-          "time": "15:00",
-          "finish": "15:30",
+          "time": "15:40",
+          "finish": "16:20",
           "language": "English"
         }
       ]
@@ -138,7 +138,7 @@
           "track": 1,
           "session": 2,
           "time": "11:00",
-          "finish": "11:30",
+          "finish": "11:40",
           "language": "English"
         }
       ]
@@ -161,8 +161,8 @@
           "keynote": 0,
           "track": 1,
           "session": 3,
-          "time": "11:30",
-          "finish": "12:00",
+          "time": "11:50",
+          "finish": "12:30",
           "language": "English"
         }
       ]
@@ -186,7 +186,7 @@
           "track": 1,
           "session": 5,
           "time": "14:00",
-          "finish": "14:30",
+          "finish": "14:40",
           "language": "English"
         }
       ]
@@ -209,8 +209,8 @@
           "keynote": 0,
           "track": 1,
           "session": 9,
-          "time": "16:00",
-          "finish": "16:30",
+          "time": "17:20",
+          "finish": "18:00",
           "language": "English"
         }
       ]
@@ -233,8 +233,8 @@
           "keynote": 0,
           "track": 2,
           "session": 7,
-          "time": "15:00",
-          "finish": "15:30",
+          "time": "15:40",
+          "finish": "16:20",
           "language": "Türkçe"
         }
       ]
@@ -257,8 +257,8 @@
           "keynote": 0,
           "track": 1,
           "session": 8,
-          "time": "15:30",
-          "finish": "16:00",
+          "time": "16:30",
+          "finish": "17:10",
           "language": "English"
         }
       ]
@@ -281,8 +281,8 @@
           "keynote": 0,
           "track": 2,
           "session": 5,
-          "time": "14:00",
-          "finish": "14:30",
+          "time": "17:20",
+          "finish": "18:00",
           "language": "Turkish"
         }
       ]
@@ -305,8 +305,8 @@
           "keynote": 0,
           "track": 2,
           "session": 3,
-          "time": "11:30",
-          "finish": "12:00",
+          "time": "11:50",
+          "finish": "12:30",
           "language": "Türkçe"
         }
       ]
@@ -329,8 +329,8 @@
           "keynote": 0,
           "track": 2,
           "session": 8,
-          "time": "15:30",
-          "finish": "16:00",
+          "time": "16:30",
+          "finish": "17:10",
           "language": "Türkçe"
         }
       ]
@@ -353,32 +353,32 @@
           "keynote": 0,
           "track": 2,
           "session": 6,
-          "time": "14:30",
-          "finish": "15:00",
+          "time": "14:50",
+          "finish": "15:30",
           "language": "Türkçe"
         }
       ]
     },
     {
-      "name": "Pascal",
-      "company": "Nexmo",
-      "title": "Developer Advocate",
-      "bio": "Michael is a polyglot software engineer, committed to reducing complexity in systems and making them more predictable. Working with a variety of languages and tools, he shares his technical expertise to audiences all around the world at user groups and conferences. Day to day, Michael is a developer advocate at Nexmo. He spends his time learning, teaching and writing about all kinds of technology. When not immersed in technology, you'll find him either playing various board games or hiking through the countryside.",
+      "name": "Pascal Borreli",
+      "company": "Les-Tilleuls.coop",
+      "title": "Technical Director",
+      "bio": "CEO of my life, CTO of my localhost, co-founder of my son, Symfony evangelist, impulsive typo fixer.",
       "avatar": "/img/speakers/pascal.jpg",
       "social": {
-        "twitter": "https://twitter.com/mheap",
-        "github": "https://github.com/mheap",
-        "linkedin": "https://www.linkedin.com/in/mheap"
+        "twitter": "https://twitter.com/pborreli",
+        "github": "https://github.com/pborreli",
+        "linkedin": "https://www.linkedin.com/in/pborreli/"
       },
       "sessions": [
         {
-          "title": "Behat for characterisation on tests",
-          "description": "Once an API ships it doesn't matter how it should behave - how it actually behaves is the important part. Users depend on the existing behaviour and we need a way to ensure that it doesn't change Behat is a tool that was built to help design software, but it’s actually a great tool for capturing existing behaviour too. We’ve used these tools to gain confidence to refactor 5+ year old apps by capturing the existing behaviour before making changes. I want to share the secrets we learned with you.",
+          "title": "Performance Optimization",
+          "description": "I bet you are writing unit tests for your apps; if not, you probably feel ashamed. But what about performance? Everyone is talking about it but very few people actually integrate performance into their development workflow... But performance is key to success: if your website is not fast enough, you will loose both customers and revenue. Theory and good tools can go a long way to quick wins and continuous performance testing.",
           "keynote": 0,
           "track": 1,
           "session": 6,
-          "time": "14:30",
-          "finish": "15:00",
+          "time": "14:50",
+          "finish": "15:30",
           "language": "English"
         }
       ]
@@ -401,8 +401,8 @@
           "keynote": 0,
           "track": 2,
           "session": 4,
-          "time": "12:00",
-          "finish": "12:30",
+          "time": "12:40",
+          "finish": "13:20",
           "language": "Türkçe"
         }
       ]
