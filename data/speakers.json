@@ -4,7 +4,7 @@
       "company": "Lingo Live",
       "title": "CTO",
       "bio": "Anthony Ferrara is the CTO for Lingo Live. He specializes in Object Oriented Design, Application Architecture, Web Application Security, and Team Building and Management. He is best known for his contributions to the PHP language, along with a broad history of collaborations to the PHP community as a whole. You can follow his blog at http://blog.ircmaxell.com or on Twitter at https://twitter.com/ircmaxell.",
-      "avatar": "anthony.jpg",
+      "avatar": "/img/speakers/anthony.jpg",
       "social": {
         "twitter": "https://twitter.com/ircmaxell",
         "github": "https://github.com/ircmaxell",
@@ -28,7 +28,7 @@
       "company": "MongoDB",
       "title": "Sr. Software Engineer at ",
       "bio": "Derick has contributed in a number of ways to the PHP project, including the Xdebug debugging tool, and various extensions and additions. He's a frequent lecturer at conferences, the author of php|architect's Guide to Date and Time Programming, and the co-author of PHP 5 Power Programming. He works as an independent contractor and consultant on PHP extensions and related projects, including Xdebug.",
-      "avatar": "derick.jpg",
+      "avatar": "/img/speakers/derick.jpg",
       "social": {
         "twitter": "https://twitter.com/derickr",
         "github": "https://github.com/derickr",
@@ -52,7 +52,7 @@
       "company": "Moneo",
       "title": "Founder",
       "bio": "Emir Karşıyakalı is founder and software architect at moneo, an Istanbul based company that specializes in web application development. He has a decade of experience building web applications. He has been involved in software architecture and development for many years and writes code in PHP, Go, JavaScript, Swift and other interesting languages. He is an open source enthusiast and an advocate of modern development principles & standards. He loves speaking at conferences, pushing teams to do their best work and to try out new technologies. Leader of PHP User group in Istanbul, Turkey and organizer of PHPKonf. He’s given many talks and workshops at conferences like Devnot, Özgür Web Teknolojileri Günleri and Google Devfest.",
-      "avatar": "emir.jpg",
+      "avatar": "/img/speakers/emir.png",
       "social": {
         "twitter": "https://twitter.com/emirkarsiyakali",
         "github": "https://github.com/emir",
@@ -76,7 +76,7 @@
       "company": "Insider",
       "title": "Sr. Software Developer",
       "bio": "Ersoy Pembe has been working as a senior software engineer and architect for Insider. He holds a BSc Computer Engineering degree from Koç University. Before joining Insider, he worked for InsightHealth (Germany), Mobven, Peak Games, and Positive. He is an expert at designing, developing and maintaining scalable systems.",
-      "avatar": "ersoy.jpg",
+      "avatar": "/img/speakers/ersoy.jpg",
       "social": {
         "twitter": "#",
         "github": "https://github.com/ersoy-insider",
@@ -100,7 +100,7 @@
       "company": "JetBrains",
       "title": "Software Developer",
       "bio": "Hi! My name is Nikita Popov, but you’ll mostly meet me as nikic on the internet. I’m working as a software developer at JetBrains on the PhpStorm team. Before that, I studied computer science and physics at the Technical University of Berlin. I contribute to the PHP and LLVM projects and maintain a number of open-source PHP libraries.",
-      "avatar": "https://2018.phpkonf.org/assets/images/speakers/fatih.jpg",
+      "avatar": "/img/speakers/nikita.jpg",
       "social": {
         "twitter": "https://twitter.com/nikita_ppv",
         "github": "https://github.com/nikic",
@@ -124,7 +124,7 @@
       "company": "Google",
       "title": "Developer Advocate",
       "bio": "Gabi is a Developer Advocate at Google Cloud and a passionate Software Engineer. She likes simplifying complex systems, and believes abstractions are best when they can be understood in a real life example. She’s driven to go beyond DBA lingo to make database and storage technology more accessible to software developers.",
-      "avatar": "gabi.jpg",
+      "avatar": "/img/speakers/gabi.jpg",
       "social": {
         "twitter": "http://www.twitter.com/gabidavila",
         "github": "http://github.com/gabidavila",
@@ -148,7 +148,7 @@
       "company": "10up",
       "title": "VC of Engineering",
       "bio": "I am a leader, manager, and a web engineer with a passion for software, open source, and helping turn IT companies into finely tuned machines. During the day I help companies create amazing web experiences with WordPress providing high level strategy and code level expertise as the Vice President of Engineering at 10up. At night I contribute to community and personal open source Node, PHP, JavaScript, and WordPress projects. Right now I am super excited about Elasticsearch and Docker. I have spoken at web technology conferences all over the world. I have a BS in Computer Science from the University of Maryland.",
-      "avatar": "taylor.jpg",
+      "avatar": "/img/speakers/taylor.jpg",
       "social": {
         "twitter": "https://twitter.com/tlovett12",
         "github": "http://github.com/tlovett1",
@@ -172,7 +172,7 @@
       "company": "Adobe",
       "title": "Magento Evangelist",
       "bio": "Ben began his career in PHP building commercial sites in 2003, focusing on Magento since 2008 and joining the ranks of Magento as their sole evangelist in 2014. He believes that the boundless requirements of commerce provide some of the best fodder for development (and for conference discussions). Always a learner, frequently a teacher, his approach to speaking and attending conferences is to find the story, enjoyment, and (often) humor in every situation.\n",
-      "avatar": "ben.jpg",
+      "avatar": "/img/speakers/ben.jpg",
       "social": {
         "twitter": "https://twitter.com/benmarks",
         "github": "https://github.com/benmarks",
@@ -196,7 +196,7 @@
       "company": "BUD",
       "title": "Senior Software/Data Engineer & Architect",
       "bio": "Michael Cullum is a backend software engineer, working particularly with PHP, and has been for about a decade. He currently works at SamKnows as a senior software engineer & architect doing data intelligence, storage and processing of internet measurement data at huge scale. He is also a manager & core developer at phpBB where he has been a contributor for over half a decade and he recently joined the Symfony Core Team as Security Lead. He is actively involved in the PHP FIG previously running the administration of it as the PHP FIG Secretary for 2 years and editor of PSR-12; he now sits on the Core Committee, the steering group of the FIG and is the editor of two security PSRs (PSR-9 and PSR-10).",
-      "avatar": "michael.jpg",
+      "avatar": "/img/speakers/michaelcullum.jpg",
       "social": {
         "twitter": "https://twitter.com/michaelcullumuk",
         "github": "https://github.com/michaelcullum",
@@ -220,7 +220,7 @@
       "company": "Setur",
       "title": "Lead Developer",
       "bio": "Professional experience in software delivery since 2001. Has led teams and designed architecture of solutions for clients including enterprise systems, messaging solutions, e-commerce, social media, tourism and web application projects. The recent expertise are mostly in Agile Project Management, Cloud Computing, Enterprise Architecture and DevOps. Voluntary attends conferences and local activities as a speaker, and/also a streamer on Twitch.",
-      "avatar": "eser.jpg",
+      "avatar": "/img/speakers/eser.jpg",
       "social": {
         "twitter": "https://twitter.com/eser",
         "github": "https://github.com/eserozvataf",
@@ -244,7 +244,7 @@
       "company": "Teknasyon Teknoloji",
       "title": "Co-founder",
       "bio": "Software architect and developer. Co-founder at Teknasyon Teknoloji. Using PHP, web technologies and Linux systems since 1999. Creates high performance solutions at Mobile area.",
-      "avatar": "fatih.jpg",
+      "avatar": "/img/speakers/fatih.jpg",
       "social": {
         "twitter": "https://twitter.com/fustundag",
         "github": "https://github.com/fustundag",
@@ -268,7 +268,7 @@
       "company": "Reformo",
       "title": "Technical Director",
       "bio": "Consultant and software architect @reformo and @efabrika. Neither a ninja nor a guru nor a junkie.",
-      "avatar": "mehmet.jpg",
+      "avatar": "/img/speakers/mehmet.png",
       "social": {
         "twitter": "https://twitter.com/_mehmet_korkmaz",
         "github": "https://github.com/mkorkmaz",
@@ -292,7 +292,7 @@
       "company": "Rebase",
       "title": "Co-founder",
       "bio": "Juliette Reinders Folmer is an all round consultant and web-developer who tries not be a geek. Juliette is a long-standing member of PHPWomen which helped her immensely to find her feet in the PHP world. She is ZCE, actively contributes to a number of open source projects, has published several articles and speaks at conferences when given the chance. She loves it when you give her a chance to refactor spaghetti-code to something elegant and maintainable. Juliette is self-employed and based in the Netherlands.",
-      "avatar": "ugur.jpg",
+      "avatar": "/img/speakers/ugur.png",
       "social": {
         "twitter": "https://twitter.com/ugurerkan",
         "github": "https://github.com/ugurerkan",
@@ -316,7 +316,7 @@
       "company": "Düğün.com",
       "title": "Team Lead",
       "bio": "Yaklaşık 9 yıldır başta e-ticaret, pazar yerleri ve ödeme sistemleri olmak üzere yazılım geliştirici olarak çalışmakta. Düğün.com mühendislik ekibinin bir parçası ve İstanbul takım lideri.",
-      "avatar": "murat.jpg",
+      "avatar": "/img/speakers/murat.png",
       "social": {
         "twitter": "https://twitter.com/murat_sac",
         "github": "https://github.com/muratsac",
@@ -340,7 +340,7 @@
       "company": "ICS Defense",
       "title": "Team Lead",
       "bio": "Software engineer with extensive experience on microservices and system architecture. Works for a hi-tech cyber security company ICS Defense. As a Software Development Team Lead, he is responsible for the development of softwares and architecture of the products developed by ICS Defense.",
-      "avatar": "erhan.jpg",
+      "avatar": "/img/speakers/erhan.jpg",
       "social": {
         "twitter": "https://twitter.com/yakuter",
         "github": "https://github.com/yakuter",
@@ -364,7 +364,7 @@
       "company": "Nexmo",
       "title": "Developer Advocate",
       "bio": "Michael is a polyglot software engineer, committed to reducing complexity in systems and making them more predictable. Working with a variety of languages and tools, he shares his technical expertise to audiences all around the world at user groups and conferences. Day to day, Michael is a developer advocate at Nexmo. He spends his time learning, teaching and writing about all kinds of technology. When not immersed in technology, you'll find him either playing various board games or hiking through the countryside.",
-      "avatar": "https://2018.phpkonf.org/assets/images/speakers/michael.jpg",
+      "avatar": "/img/speakers/pascal.jpg",
       "social": {
         "twitter": "https://twitter.com/mheap",
         "github": "https://github.com/mheap",
@@ -388,7 +388,7 @@
       "company": "Netsparker",
       "title": "Security Researcher",
       "bio": "1986 Istanbul. He graduated Computer Programming at Sakarya University. Works in Netsparker as a security researcher. He continues his work with mentorship of Ferruh Mavituna. He reported issues to alot of big company and he has been located these companies` hall of fame. His articles and researches is published on Netsparker Turkey Security Blog and he prepares and presents to his security podcast called Klavye Delikanlıları with Mustafa Yalcin.",
-      "avatar": "ziyahan.jpg",
+      "avatar": "/img/speakers/ziyahan.jpg",
       "social": {
         "twitter": "https://twitter.com/ziyaxanalbeniz",
         "github": "https://github.com/ziyahan",
