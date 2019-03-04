@@ -413,8 +413,8 @@
       },
       "sessions": [
         {
-          "title": "OWASP Proactive Controls",
-          "description": "Yazılım geliştiriciler, güvenli yazılım geliştirme ve Demokles'in Kılıcı gibi tepelerinde sallanan deadline kılıçlarıyla maalesef bu hususta yeterli performansı gösteremiyorlar. Kullanılan araçların, frameworklerin güvenlik duyarlılıkların zayıf olması ya da varsayılan olarak bu tedbirleri desteklemiyor oluşları da işin cabası. Sunumda özetle Proactive Controls maddelerini değerlendirecek ve Proactive Controls maddelerinin, OWASP Top 10 Kritik Zafiyetler Listesi'ndeki hangi derde deva olduğunu göreceğiz.",
+          "title": "Evil in the Developer",
+          "description": "In this talk, we examine the latest security issues emerged because of -even though-  minor mistakes in the codes. A developer has to know code security, taking into consideration attackers and look from their sides. Let's investigate risks in the light of issues seemed in WordPress, Drupal, PHP Mailer, etc.",
           "keynote": 0,
           "track": 2,
           "session": 4,
