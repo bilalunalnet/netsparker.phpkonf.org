@@ -375,21 +375,21 @@
       ]
     },
     {
-      "name": "Pascal Borreli",
+      "name": "Antoine Bluchet",
       "homepage": false,
       "company": "Les-Tilleuls.coop",
-      "title": "Technical Director",
-      "bio": "CEO of my life, CTO of my localhost, co-founder of my son, Symfony evangelist, impulsive typo fixer.",
-      "avatar": "/img/speakers/pascal.jpg",
+      "title": "Lead Developer",
+      "bio": "Antoine is an expert consultant working with Les-Tilleuls. He is a member of API Platform's core team, a php API framework based on symfony. On top of this, he is very active on github, switching between the PHP and the JavaScript communities. He's maintaining open source software, notably PM2, front-end javascript tools or p2p-related software.",
+      "avatar": "/img/speakers/antoine.jpg",
       "social": {
-        "twitter": "https://twitter.com/pborreli",
-        "github": "https://github.com/pborreli",
-        "linkedin": "https://www.linkedin.com/in/pborreli/"
+        "twitter": "https://twitter.com/s0yuka",
+        "github": "https://github.com/s0yuka",
+        "linkedin": "https://www.linkedin.com/in/antoine-bluchet-4a5a8069/"
       },
       "sessions": [
         {
-          "title": "Performance Optimization",
-          "description": "I bet you are writing unit tests for your apps; if not, you probably feel ashamed. But what about performance? Everyone is talking about it but very few people actually integrate performance into their development workflow... But performance is key to success: if your website is not fast enough, you will loose both customers and revenue. Theory and good tools can go a long way to quick wins and continuous performance testing.",
+          "title": "Performances in a Real-world Application",
+          "description": "Do you remember the arrival of Web 2.0 around year 2000? A few months after the release of MySpace, del.icio.us came to the world with a service to save and share bookmarks. With a focus on performance, we're going to demonstrate how to build a clone of this social network with API Platform by applying modern concepts. While explaining what performance is actually about, what should be measured and how, we will show how it can be part of the development and testing process. All this will be done on a modern SPA stack, with real-time capabilities via Mercure and asynchronous data processing using the Symfony Messenger component.",
           "keynote": 0,
           "track": 1,
           "session": 6,
