@@ -21,7 +21,7 @@ var App = new Vue({
     },
     methods: {
         getSpeakers: function () {
-            return _.sampleSize(this.speakers, 30)
+            return _.sampleSize(this.speakers.filter(x => x.name.length > 0), 30)
         },
         getSchedule: function () {
             let schedules = [];
@@ -36,7 +36,7 @@ var App = new Vue({
                     sessions.push(session);
                 }
             }
-            
+
             sessions.sort((a, b) => a.session - b.session);
 
             for (const session of sessions) {
@@ -49,7 +49,7 @@ var App = new Vue({
                 schedules.push(temp);
                 sessions.splice(sessions.findIndex(e => e.time === session.time),1);
             }
-            
+
             return schedules;
         },
         getRandomSpeakers: function() {

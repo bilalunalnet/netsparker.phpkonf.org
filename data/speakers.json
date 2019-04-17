@@ -42,9 +42,9 @@
           "description": "Sick and tired of \"X technology is only good for starting out; after you do, move to Y\"? Good news - you don’t need to move away, you just need to get in further! In this talk, you'll learn about improvements in the newest version of the most used database in the world. What are Window Functions? How do you use CTEs? How can the new default encoding help me and what should I look for when upgrading versions?",
           "keynote": 0,
           "track": 1,
-          "session": 2,
-          "time": "11:00",
-          "finish": "11:40",
+          "session": 3,
+          "time": "11:10",
+          "finish": "11:50",
           "language": "English"
         }
       ]
@@ -67,9 +67,9 @@
           "description": "While PHP 7.4 is not released yet, development has already started on the next major version: PHP 8. This talk will discuss features that have already landed, as well as backwards compatibility breaks to look out for. We'll also talk about the planned just-in-time (JIT) compiler, which promises further performance improvements.\n\nAs PHP 8 is still in early development, the final feature set is not yet known. Part of this talk will be more speculative and discuss functionality that people plan to work on, but that will not necessarily make the release. Maybe your feedback can help us focus on what is most important.",
           "keynote": 0,
           "track": 1,
-          "session": 7,
-          "time": "15:40",
-          "finish": "16:20",
+          "session": 10,
+          "time": "16:30",
+          "finish": "17:10",
           "language": "English"
         }
       ]
@@ -92,9 +92,9 @@
           "description": "Progressive Web Apps are an emerging approach to solving the problem of having the Web, everywhere: different mobile devices, IoT devices, and areas with low bandwidth or poor connectivity. For developers accustomed to PHP and server-side rendering, there are several factors to consider. Drawing on our experiences working with Google to build a PWA development experience for Magento, this talk introduces the elements of PWA, the challenges of providing online+offline functionality, and the limitations of this nascent approach.",
           "keynote": 0,
           "track": 1,
-          "session": 5,
-          "time": "14:00",
-          "finish": "14:40",
+          "session": 7,
+          "time": "14:20",
+          "finish": "15:00",
           "language": "English"
         }
       ]
@@ -117,9 +117,9 @@
           "description": "PHP 25 yıllık dinamik tipli (dynamically typed) bir yazılım dili. 2015 yılında yayınlanan 7.0 sürümüyle gelen Scalar & Return type declarations ile yarı dinamik, yarı statik (gradually typed) bir dil oldu. Aralık 2019'da yayınlanacak PHP 7.4 ile de PHP'e statik tip (statically typed) desteği ekleniyor. Oturumda PHP ile static typing'i PHP 7.4 üzerinden detaylarıyla inceleyecek, PHP 7.4 ve PHP 8.0'da hayatımıza girecek diğer özelliklere göz atacağız.",
           "keynote": 0,
           "track": 2,
-          "session": 2,
-          "time": "11:00",
-          "finish": "11:40",
+          "session": 3,
+          "time": "11:10",
+          "finish": "11:50",
           "language": "Türkçe"
         }
       ]
@@ -142,9 +142,9 @@
           "description": "Teknolojinin hızla geliştiği, çeşitliliğin ve alternatiflerin hızla arttığı günümüzde; bu gelişmeler geliştiricilerin bir yandan işlerini kolaylaştırken bir yandan da projelerin bireysel deneylere dönüşmesi riskini  yanında getiriyor. Yeni gelişmelerin dışında kalmadan, kendimizi adapte etmeye çalışırken diğer taraftan verebileceğimiz yanlış kararlar ile projelerin kaderlerini etkileyebilir yada bizden sonraki gelecek geliştiricilerin hayatının zorlaştırabiliriz. Oturumda bu dengeyi nasıl kurmalıyız sorusunun cevabını arayacağız.",
           "keynote": 0,
           "track": 2,
-          "session": 5,
-          "time": "14:00",
-          "finish": "14:40",
+          "session": 7,
+          "time": "14:20",
+          "finish": "15:00",
           "language": "Türkçe"
         }
       ]
@@ -167,9 +167,9 @@
           "description": "10up open sourced their WordPress Best Practices (PHP, JavaScript, tools, and workflows). These best practices have become the industry standard for WordPress. As the VP of Engineering at 10up, I drove this project and am the lead contributor to the docs. These Best Practices allow developers to build sites that scale, perform, and are secure one sites receiving millions of page views per day. They also standardize development practices in such a way that facilitates team collaboration. This talk will highlight some important parts of the Best Practices and reveal some valuable tips about how we (10up) engineer some of the most complex and most viewed WordPress sites in the world.",
           "keynote": 0,
           "track": 1,
-          "session": 3,
-          "time": "11:50",
-          "finish": "12:30",
+          "session": 4,
+          "time": "12:00",
+          "finish": "12:40",
           "language": "English"
         }
       ]
@@ -192,9 +192,9 @@
           "description": "The world we live in is one where data is one of the most valuable assets. There are many different pieces of data we can analyse on all kind of data from analytics of user behaviour of your platform, user generated content, monitoring of exception rates, or when your core business model is to provide some kind of analytics platform. This talk will talk about how you can, in your Symfony applications, perform some simple trend analysis techniques to build models, analyse data to get useful information and spot anomalies.",
           "keynote": 0,
           "track": 1,
-          "session": 4,
-          "time": "12:40",
-          "finish": "13:20",
+          "session": 6,
+          "time": "13:30",
+          "finish": "14:10",
           "language": "English"
         }
       ]
@@ -217,9 +217,9 @@
           "description": "Microsoft'un geçtiğimiz yıl içerisinde Azure DevOps ve GitHub ürünlerini belirli limitlerde ücretsizleştirmesi ile birlikte \"şirket içi açık kaynak\" anlayışı daha da uygulanabilir bir duruma geldi. Bu oturumda Azure DevOps ve GitHub'ın sağladığı repository, proje yönetimi, CI/CD ve yük testi araçları başta olmak üzere imkanlarla bir PHP projesinin yaşayabileceği uçtan uca macerayı konuşacağız.",
           "keynote": 0,
           "track": 2,
-          "session": 7,
-          "time": "15:40",
-          "finish": "16:20",
+          "session": 10,
+          "time": "16:30",
+          "finish": "17:10",
           "language": "Türkçe"
         }
       ]
@@ -242,9 +242,9 @@
           "description": "Modern bir yazılım projesinde son kullanıcı uygulaması, yönetim uygulaması, tekrar eden görevleri yerine getiren komut satırı uygulamaları gibi birbirinden bağımsız parçalar bulunur. Ek olarak ihtiyaç duyulan API’lar, kuyruklar ile bu yapı daha da büyür. Uygulamamızın kalbinde duran işleme mantığı bu yapıda her yere sızma eğilimindedir. Bu nedenle işleme mantığını, uygulamanın kullandığı ortamı, iletişim kurduğu network servislerini bir birinden ayırmak hayatidir. Oturumda, yukarıda bahsedilen problemin çözümüne yönelik Alistair Cockburn’ün Ports and Adapters (Hexagonal Mimari diye de bilinir) isimli yazılım mimarisi tasarısı özelinde “temiz mimarinin” detaylarından bahsedilecek.",
           "keynote": 0,
           "track": 1,
-          "session": 8,
-          "time": "16:30",
-          "finish": "17:10",
+          "session": 11,
+          "time": "17:20",
+          "finish": "18:00",
           "language": "Turkish"
         }
       ]
@@ -267,9 +267,9 @@
           "description": "API Platform: Symfony ile geliştirilmiş açık kaynaklı bir API geliştirme projesidir. Kendi veri yapılarınız veya Schema.org üzerindeki veri yapılarını kullanarak: doğrulama, sayfalama, filtreleme, güvenlik ve daha fazlasını birkaç dakika içerisinde REST /GraphQL ile geliştirmenize ve modern veri formatları üzerinde çıktılar almanıza olanak sağlar. Ayrıca API Platform araçları ile Vue.js, React.js, React Native gibi SPA / Mobil uygulamalarına hazır kod üretebilir ve Docker, Kubernetes ile yayına gönderebilirsiniz. Oturumda API Platform kullanımı ve özellikleri anlatılacak.",
           "keynote": 0,
           "track": 2,
-          "session": 3,
-          "time": "11:50",
-          "finish": "12:30",
+          "session": 4,
+          "time": "12:00",
+          "finish": "12:40",
           "language": "Türkçe"
         }
       ]
@@ -292,9 +292,9 @@
           "description": "Eric Evans'ın Domain Driven Design — Tackling Complexity in the Heart of Software isimli kitabında ele aldığı kavram, karmaşık iş modellerinin doğru bir şekilde anlaşılması ve uygulanması için çözümler üretmektedir. Oturumda bu çözümleri gerçek hayattan örneklerle pratik bir şekilde ele alacağız.",
           "keynote": 0,
           "track": 2,
-          "session": 8,
-          "time": "16:30",
-          "finish": "17:10",
+          "session": 11,
+          "time": "17:20",
+          "finish": "18:00",
           "language": "Türkçe"
         }
       ]
@@ -317,9 +317,9 @@
           "description": "NATS Server, cloud native uygulamalarda, IoT mesajlaşma sistemlerinde ve mikroservis mimarilerinde kullanılan basit, yüksek performanslı bir açık kaynaklı mesajlaşma sistemidir. Oturumda NATS ve PHP kullanarak mikroservis mimarisinde hızlı bir mesajlaşma kanalının nasıl oluşturulacağını ele alıp gerçek bir mikroservis yapısının nasıl olması gerektiğini ve verilerin nasıl daha hızlı bir şekilde iletilebileceğini anlatacağım.",
           "keynote": 0,
           "track": 2,
-          "session": 6,
-          "time": "14:50",
-          "finish": "15:30",
+          "session": 9,
+          "time": "15:40",
+          "finish": "16:20",
           "language": "Türkçe"
         }
       ]
@@ -342,9 +342,9 @@
           "description": "Do you remember the arrival of Web 2.0 around year 2000? A few months after the release of MySpace, del.icio.us came to the world with a service to save and share bookmarks. With a focus on performance, we're going to demonstrate how to build a clone of this social network with API Platform by applying modern concepts. While explaining what performance is actually about, what should be measured and how, we will show how it can be part of the development and testing process. All this will be done on a modern SPA stack, with real-time capabilities via Mercure and asynchronous data processing using the Symfony Messenger component.",
           "keynote": 0,
           "track": 1,
-          "session": 6,
-          "time": "14:50",
-          "finish": "15:30",
+          "session": 9,
+          "time": "15:40",
+          "finish": "16:20",
           "language": "English"
         }
       ]
@@ -367,10 +367,85 @@
           "description": "In this talk, we examine the latest security issues emerged because of -even though-  minor mistakes in the codes. A developer has to know code security, taking into consideration attackers and look from their sides. Let's investigate risks in the light of issues seemed in WordPress, Drupal, PHP Mailer, etc.",
           "keynote": 0,
           "track": 2,
-          "session": 4,
-          "time": "12:40",
-          "finish": "13:20",
+          "session": 6,
+          "time": "13:30",
+          "finish": "14:10",
           "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "homepage": false,
+      "company": "",
+      "title": "",
+      "bio": "",
+      "avatar": "",
+      "social": {
+        "twitter": "",
+        "github": "",
+        "linkedin": ""
+      },
+      "sessions": [
+        {
+          "title": "Coffee Break",
+          "description": "",
+          "keynote": 0,
+          "track": 1,
+          "session": 2,
+          "time": "10:40",
+          "finish": "11:10",
+          "language": "English"
+        },
+        {
+          "title": "Coffee Break",
+          "description": "",
+          "keynote": 0,
+          "track": 2,
+          "session": 2,
+          "time": "10:40",
+          "finish": "11:10",
+          "language": "English"
+        },
+        {
+          "title": "Lunch",
+          "description": "",
+          "keynote": 0,
+          "track": 2,
+          "session": 5,
+          "time": "12:40",
+          "finish": "13:30",
+          "language": "English"
+        },
+        {
+          "title": "Lunch",
+          "description": "",
+          "keynote": 0,
+          "track": 1,
+          "session": 5,
+          "time": "12:40",
+          "finish": "13:30",
+          "language": "English"
+        },
+        {
+          "title": "Coffee Break",
+          "description": "",
+          "keynote": 0,
+          "track": 2,
+          "session": 8,
+          "time": "15:00",
+          "finish": "15:40",
+          "language": "English"
+        },
+        {
+          "title": "Coffee Break",
+          "description": "",
+          "keynote": 0,
+          "track": 1,
+          "session": 8,
+          "time": "15:00",
+          "finish": "15:40",
+          "language": "English"
         }
       ]
     }
