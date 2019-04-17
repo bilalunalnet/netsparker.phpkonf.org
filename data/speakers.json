@@ -151,7 +151,7 @@
     },
     {
       "name": "Taylor Lovett",
-      "homepage": false,
+      "homepage": true,
       "company": "10up",
       "title": "VC of Engineering",
       "bio": "I am a leader, manager, and a web engineer with a passion for software, open source, and helping turn IT companies into finely tuned machines. During the day I help companies create amazing web experiences with WordPress providing high level strategy and code level expertise as the Vice President of Engineering at 10up. At night I contribute to community and personal open source Node, PHP, JavaScript, and WordPress projects. Right now I am super excited about Elasticsearch and Docker. I have spoken at web technology conferences all over the world. I have a BS in Computer Science from the University of Maryland.",
