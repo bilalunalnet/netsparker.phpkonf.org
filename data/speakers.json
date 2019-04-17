@@ -50,31 +50,6 @@
       ]
     },
     {
-      "name": "Derick Rethans",
-      "homepage": true,
-      "company": "MongoDB",
-      "title": "Sr. Software Engineer at ",
-      "bio": "Derick has contributed in a number of ways to the PHP project, including the Xdebug debugging tool, and various extensions and additions. He's a frequent lecturer at conferences, the author of php|architect's Guide to Date and Time Programming, and the co-author of PHP 5 Power Programming. He works as an independent contractor and consultant on PHP extensions and related projects, including Xdebug.",
-      "avatar": "/img/speakers/derick.jpg",
-      "social": {
-        "twitter": "https://twitter.com/derickr",
-        "github": "https://github.com/derickr",
-        "linkedin": "https://www.linkedin.com/in/derickrethans"
-      },
-      "sessions": [
-        {
-          "title": "It's all about the goto",
-          "description": "Don't worry, this is not about the goto keyword. In this presentation, I am showing you some of the inner workings of PHP. We are going to look at how different language keywords and constructs are handled internally. Basically, everything is converted to goto, but the how and why, is not as simple as it seems! We'll also have a look at what sort of optimisations opcache does to make your code run faster. This is a very in depth talk, mostly interesting to people that want to know how PHP works internally. Expect lots of wonkyness, a form of assembly, and trees.",
-          "keynote": 0,
-          "track": 1,
-          "session": 4,
-          "time": "12:40",
-          "finish": "13:20",
-          "language": "English"
-        }
-      ]
-    },
-    {
       "name": "Nikita Popov",
       "homepage": true,
       "company": "JetBrains",
@@ -217,9 +192,9 @@
           "description": "The world we live in is one where data is one of the most valuable assets. There are many different pieces of data we can analyse on all kind of data from analytics of user behaviour of your platform, user generated content, monitoring of exception rates, or when your core business model is to provide some kind of analytics platform. This talk will talk about how you can, in your Symfony applications, perform some simple trend analysis techniques to build models, analyse data to get useful information and spot anomalies.",
           "keynote": 0,
           "track": 1,
-          "session": 9,
-          "time": "17:20",
-          "finish": "18:00",
+          "session": 4,
+          "time": "12:40",
+          "finish": "13:20",
           "language": "English"
         }
       ]
@@ -250,31 +225,6 @@
       ]
     },
     {
-      "name": "Fatih Üstündağ",
-      "homepage": false,
-      "company": "Teknasyon Teknoloji",
-      "title": "CTO",
-      "bio": "Software architect and developer. Co-founder at Teknasyon Teknoloji. Using PHP, web technologies and Linux systems since 1999. Creates high performance solutions at Mobile area.",
-      "avatar": "/img/speakers/fatih.jpg",
-      "social": {
-        "twitter": "https://twitter.com/fustundag",
-        "github": "https://github.com/fustundag",
-        "linkedin": "https://linkedin.com/in/fatihustundag"
-      },
-      "sessions": [
-        {
-          "title": "Preparing Environment for Testing and Debugging while Test",
-          "description": "Writing test is a challenge but environment setup for testing is another challenge. In this session we'll find an answer about test environments with real world examples.",
-          "keynote": 0,
-          "track": 1,
-          "session": 8,
-          "time": "16:30",
-          "finish": "17:10",
-          "language": "English"
-        }
-      ]
-    },
-    {
       "name": "Mehmet Korkmaz",
       "homepage": false,
       "company": "Reformo",
@@ -291,10 +241,10 @@
           "title": "Ports and Adapters: Altıgen Mimari",
           "description": "Modern bir yazılım projesinde son kullanıcı uygulaması, yönetim uygulaması, tekrar eden görevleri yerine getiren komut satırı uygulamaları gibi birbirinden bağımsız parçalar bulunur. Ek olarak ihtiyaç duyulan API’lar, kuyruklar ile bu yapı daha da büyür. Uygulamamızın kalbinde duran işleme mantığı bu yapıda her yere sızma eğilimindedir. Bu nedenle işleme mantığını, uygulamanın kullandığı ortamı, iletişim kurduğu network servislerini bir birinden ayırmak hayatidir. Oturumda, yukarıda bahsedilen problemin çözümüne yönelik Alistair Cockburn’ün Ports and Adapters (Hexagonal Mimari diye de bilinir) isimli yazılım mimarisi tasarısı özelinde “temiz mimarinin” detaylarından bahsedilecek.",
           "keynote": 0,
-          "track": 2,
-          "session": 9,
-          "time": "17:20",
-          "finish": "18:00",
+          "track": 1,
+          "session": 8,
+          "time": "16:30",
+          "finish": "17:10",
           "language": "Turkish"
         }
       ]
