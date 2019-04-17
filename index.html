@@ -225,10 +225,10 @@
                   </div>
                   <span class="c-schedule__mobile">Netsparker Track</span>
                   <h3 class="c-timeline__title c-timeline__title--left">{{ session.title }}</h3>
-                  <p class="c-timeline__info">
+                  <p class="c-timeline__info" v-if="session.description.length > 0">
                     {{ session.description }}
                   </p>
-                  <div class="c-timeline__speaker">
+                  <div class="c-timeline__speaker" v-if="session.name.length > 0">
                     <img :src="session.avatar" alt="" class="c-timeline__image" />
                     <span class="c-timeline__person">{{ session.name }}</span>
                   </div>
@@ -246,10 +246,10 @@
                   <h3 class="c-timeline__title c-timeline__title--right">
                     {{ session.title }}
                   </h3>
-                  <p class="c-timeline__info">
+                  <p class="c-timeline__info" v-if="session.description.length > 0">
                     {{ session.description }}
                   </p>
-                  <div class="c-timeline__speaker">
+                  <div class="c-timeline__speaker" v-if="session.name.length > 0">
                     <img :src="session.avatar" alt="" class="c-timeline__image" />
                     <span class="c-timeline__person">{{ session.name }}</span>
                   </div>
@@ -604,7 +604,7 @@
               </div>
             </a>
           </div>
-        </div>        
+        </div>
       </div>
     </div>
   </div>
