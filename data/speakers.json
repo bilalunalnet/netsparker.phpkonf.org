@@ -238,14 +238,14 @@
       },
       "sessions": [
         {
-          "title": "Ports and Adapters: Altıgen Mimari",
-          "description": "Modern bir yazılım projesinde son kullanıcı uygulaması, yönetim uygulaması, tekrar eden görevleri yerine getiren komut satırı uygulamaları gibi birbirinden bağımsız parçalar bulunur. Ek olarak ihtiyaç duyulan API’lar, kuyruklar ile bu yapı daha da büyür. Uygulamamızın kalbinde duran işleme mantığı bu yapıda her yere sızma eğilimindedir. Bu nedenle işleme mantığını, uygulamanın kullandığı ortamı, iletişim kurduğu network servislerini bir birinden ayırmak hayatidir. Oturumda, yukarıda bahsedilen problemin çözümüne yönelik Alistair Cockburn’ün Ports and Adapters (Hexagonal Mimari diye de bilinir) isimli yazılım mimarisi tasarısı özelinde “temiz mimarinin” detaylarından bahsedilecek.",
+          "title": "Ports and Adapters: Hexagon Architecture",
+          "description": "A modern software project includes individual parts such as end user applications, management applications and command line applications that perform repetitive tasks. In addition, this structure becomes larger with the required APIs and queues. The processing logic that stands at the heart of our application tends to ooze everywhere in this structure. Therefore, it is vital to separate the processing logic, the environment used by the application, and the network services it communicates with. In this session, Alistair Cockburn's Ports and Adapters (known as Hexagonal Architecture) software architecture and clean architecture will be mentioned.",
           "keynote": 0,
           "track": 1,
           "session": 11,
           "time": "17:20",
           "finish": "18:00",
-          "language": "Turkish"
+          "language": "English"
         }
       ]
     },
