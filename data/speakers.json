@@ -100,21 +100,21 @@
       ]
     },
     {
-      "name": "Emir Karşıyakalı",
-      "homepage": true,
-      "company": "Moneo",
-      "title": "Founder",
-      "bio": "Emir Karşıyakalı is founder and software architect at moneo, an Istanbul based company that specializes in web application development. He has a decade of experience building web applications. He has been involved in software architecture and development for many years and writes code in PHP, Go, JavaScript, Swift and other interesting languages. He is an open source enthusiast and an advocate of modern development principles & standards. He loves speaking at conferences, pushing teams to do their best work and to try out new technologies. Leader of PHP User group in Istanbul, Turkey and organizer of PHPKonf. He’s given many talks and workshops at conferences like Devnot, Özgür Web Teknolojileri Günleri and Google Devfest.",
-      "avatar": "/img/speakers/emir.png",
+      "name": "Mehmet Karcı",
+      "homepage": false,
+      "company": "Masomo",
+      "title": "Backend Team Lead",
+      "bio": "Mehmet Karcı works as a backend team leader at Masomo. Developing high-traffic web projects for 10 years, Mehmet is interested in PHP, Golang, JavaScript and Python.",
+      "avatar": "/img/speakers/mehmet.jpg",
       "social": {
-        "twitter": "https://twitter.com/emirkarsiyakali",
-        "github": "https://github.com/emir",
-        "linkedin": "https://www.linkedin.com/in/emirkarsiyakali"
+        "twitter": "https://twitter.com/mkrc",
+        "github": "https://github.com/mkrc",
+        "linkedin": "https://www.linkedin.com/in/mkarci/"
       },
       "sessions": [
         {
-          "title": "2020'de PHP",
-          "description": "PHP 25 yıllık dinamik tipli (dynamically typed) bir yazılım dili. 2015 yılında yayınlanan 7.0 sürümüyle gelen Scalar & Return type declarations ile yarı dinamik, yarı statik (gradually typed) bir dil oldu. Aralık 2019'da yayınlanacak PHP 7.4 ile de PHP'e statik tip (statically typed) desteği ekleniyor. Oturumda PHP ile static typing'i PHP 7.4 üzerinden detaylarıyla inceleyecek, PHP 7.4 ve PHP 8.0'da hayatımıza girecek diğer özelliklere göz atacağız.",
+          "title": "200K Online Oyuncuda PHP (Kafa Topu 2)",
+          "description": "Bu oturumda anlık 200 bin kullanıcıya sahip bir online oyun olan Kafa Topu 2'nin Backend alt yapısını nasıl kurguladığımızı ve yüksek trafik altında PHP'yi diğer teknolojiler ile nasıl beslediğimizi / optimize ettiğimizi anlatacağız.",
           "keynote": 0,
           "track": 2,
           "session": 3,
