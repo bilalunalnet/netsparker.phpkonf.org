@@ -338,7 +338,7 @@
       },
       "sessions": [
         {
-          "title": "Performances in a Real-world Application",
+          "title": "Performance in a Real-world Application",
           "description": "Do you remember the arrival of Web 2.0 around year 2000? A few months after the release of MySpace, del.icio.us came to the world with a service to save and share bookmarks. With a focus on performance, we're going to demonstrate how to build a clone of this social network with API Platform by applying modern concepts. While explaining what performance is actually about, what should be measured and how, we will show how it can be part of the development and testing process. All this will be done on a modern SPA stack, with real-time capabilities via Mercure and asynchronous data processing using the Symfony Messenger component.",
           "keynote": 0,
           "track": 1,
