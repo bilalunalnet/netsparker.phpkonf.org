@@ -413,8 +413,8 @@
       },
       "sessions": [
         {
-          "title": "Coming Soon",
-          "description": "Coming Soon",
+          "title": "The problem with JavaScript",
+          "description": "Do you feel the JavaScript fatigue? Do you find it difficult to understand all the new approaches that come out every single day? You are not alone. JavaScript is a great tool, but its simplicity is its biggest enemy. This talk will uncover why we hate what we hate in JavaScript, how JavaScript could be best utilized, and what it could actually do. We will talk about communities, open source projects, and the companies behind them, and we will talk about the problem with JavaScript.",
           "keynote": 0,
           "track": 1,
           "session": 12,
