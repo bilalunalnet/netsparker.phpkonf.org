@@ -203,7 +203,7 @@
       "name": "Eser Özvataf",
       "homepage": false,
       "company": "Setur",
-      "title": "Lead Developer",
+      "title": "Software Process Leader",
       "bio": "Professional experience in software delivery since 2001. Has led teams and designed architecture of solutions for clients including enterprise systems, messaging solutions, e-commerce, social media, tourism and web application projects. The recent expertise are mostly in Agile Project Management, Cloud Computing, Enterprise Architecture and DevOps. Voluntary attends conferences and local activities as a speaker, and/also a streamer on Twitch.",
       "avatar": "/img/speakers/eser.jpg",
       "social": {
@@ -213,8 +213,8 @@
       },
       "sessions": [
         {
-          "title": "Azure DevOps ve GitHub ile uçtan uca PHP Projeleri",
-          "description": "Microsoft'un geçtiğimiz yıl içerisinde Azure DevOps ve GitHub ürünlerini belirli limitlerde ücretsizleştirmesi ile birlikte \"şirket içi açık kaynak\" anlayışı daha da uygulanabilir bir duruma geldi. Bu oturumda Azure DevOps ve GitHub'ın sağladığı repository, proje yönetimi, CI/CD ve yük testi araçları başta olmak üzere imkanlarla bir PHP projesinin yaşayabileceği uçtan uca macerayı konuşacağız.",
+          "title": "Serverless PHP",
+          "description": "Cloud servislerinin yaygınlık ve ihtiyaçlarının artışıyla birlikte Serverless mimari de popüler bir yaklaşım haline geldi. Bu oturumda Amazon Web Services hizmetleriyle bir PHP kütüphanesi/çatısı olan bref kullanarak FaaS dünyasına nasıl girebileceğimizi ve uygulama tasarımında bu yaklaşım ne gibi farklılıklar getirdiğini konuşacağız.",
           "keynote": 0,
           "track": 2,
           "session": 10,
@@ -371,6 +371,56 @@
           "time": "13:30",
           "finish": "14:10",
           "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "Emir Karşıyakalı",
+      "homepage": true,
+      "company": "Moneo",
+      "title": "Founder",
+      "bio": "Emir Karşıyakalı is founder and software architect at moneo, an Istanbul based company that specializes in web application development. He has a decade of experience building web applications. He has been involved in software architecture and development for many years and writes code in PHP, Go, JavaScript, Swift and other interesting languages. He is an open source enthusiast and an advocate of modern development principles & standards. He loves speaking at conferences, pushing teams to do their best work and to try out new technologies. Leader of PHP User group in Istanbul, Turkey and organizer of PHPKonf. He’s given many talks and workshops at conferences like Devnot, Özgür Web Teknolojileri Günleri and Google Devfest.",
+      "avatar": "/img/speakers/emir.png",
+      "social": {
+        "twitter": "https://twitter.com/emirkarsiyakali",
+        "github": "https://github.com/emir",
+        "linkedin": "https://www.linkedin.com/in/emirkarsiyakali"
+      },
+      "sessions": [
+        {
+          "title": "2020'de PHP",
+          "description": "PHP 25 yıllık dinamik tipli (dynamically typed) bir yazılım dili. 2015 yılında yayınlanan 7.0 sürümüyle gelen Scalar & Return type declarations ile yarı dinamik, yarı statik (gradually typed) bir dil oldu. Aralık 2019'da yayınlanacak PHP 7.4 ile de PHP'e statik tip (statically typed) desteği ekleniyor. Oturumda PHP ile static typing'i PHP 7.4 üzerinden detaylarıyla inceleyecek, PHP 7.4 ve PHP 8.0'da hayatımıza girecek diğer özelliklere göz atacağız.",
+          "keynote": 0,
+          "track": 2,
+          "session": 12,
+          "time": "18:10",
+          "finish": "18:50",
+          "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "Armağan Amcalar",
+      "homepage": false,
+      "company": "Wayfair",
+      "title": "Senior Engineering Manager",
+      "bio": "Armagan is currently working as a Senior Engineering Manager at Wayfair, responsible for leading the creation of innovative products to enhance the experiences of Wayfair's partners. A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of cote, a library for building microservices with Node.js. He spends most of his free time teaching JavaScript as a university lecturer, a consultant or an NGO worker. He also leads Lonca Works, a software craftsmanship guild.",
+      "avatar": "/img/speakers/armagan.jpg",
+      "social": {
+        "twitter": "https://twitter.com/dashersw",
+        "github": "https://github.com/dashersw",
+        "linkedin": "https://www.linkedin.com/in/armaganamcalar"
+      },
+      "sessions": [
+        {
+          "title": "Coming Soon",
+          "description": "Coming Soon",
+          "keynote": 0,
+          "track": 1,
+          "session": 12,
+          "time": "18:10",
+          "finish": "18:50",
+          "language": "English"
         }
       ]
     },
