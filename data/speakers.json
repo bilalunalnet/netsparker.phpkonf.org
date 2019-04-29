@@ -18,8 +18,8 @@
           "keynote": 1,
           "track": 1,
           "session": 1,
-          "time": "10:00",
-          "finish": "10:40",
+          "time": "09:30",
+          "finish": "10:10",
           "language": "English"
         }
       ]
@@ -43,8 +43,8 @@
           "keynote": 0,
           "track": 1,
           "session": 3,
-          "time": "11:10",
-          "finish": "11:50",
+          "time": "10:40",
+          "finish": "11:20",
           "language": "English"
         }
       ]
@@ -68,8 +68,8 @@
           "keynote": 0,
           "track": 1,
           "session": 10,
-          "time": "16:30",
-          "finish": "17:10",
+          "time": "15:50",
+          "finish": "16:30",
           "language": "English"
         }
       ]
@@ -93,8 +93,8 @@
           "keynote": 0,
           "track": 1,
           "session": 7,
-          "time": "14:20",
-          "finish": "15:00",
+          "time": "13:50",
+          "finish": "14:30",
           "language": "English"
         }
       ]
@@ -117,9 +117,9 @@
           "description": "Bu oturumda anlık 200 bin kullanıcıya sahip bir online oyun olan Kafa Topu 2'nin Backend alt yapısını nasıl kurguladığımızı ve yüksek trafik altında PHP'yi diğer teknolojiler ile nasıl beslediğimizi / optimize ettiğimizi anlatacağız.",
           "keynote": 0,
           "track": 2,
-          "session": 3,
-          "time": "11:10",
-          "finish": "11:50",
+          "session": 4,
+          "time": "11:30",
+          "finish": "12:10",
           "language": "Türkçe"
         }
       ]
@@ -143,8 +143,8 @@
           "keynote": 0,
           "track": 2,
           "session": 7,
-          "time": "14:20",
-          "finish": "15:00",
+          "time": "13:50",
+          "finish": "14:30",
           "language": "Türkçe"
         }
       ]
@@ -168,8 +168,8 @@
           "keynote": 0,
           "track": 1,
           "session": 4,
-          "time": "12:00",
-          "finish": "12:40",
+          "time": "11:30",
+          "finish": "12:10",
           "language": "English"
         }
       ]
@@ -193,8 +193,8 @@
           "keynote": 0,
           "track": 1,
           "session": 6,
-          "time": "13:30",
-          "finish": "14:10",
+          "time": "13:00",
+          "finish": "13:40",
           "language": "English"
         }
       ]
@@ -218,8 +218,8 @@
           "keynote": 0,
           "track": 2,
           "session": 10,
-          "time": "16:30",
-          "finish": "17:10",
+          "time": "15:50",
+          "finish": "16:30",
           "language": "Türkçe"
         }
       ]
@@ -243,8 +243,8 @@
           "keynote": 0,
           "track": 1,
           "session": 11,
-          "time": "17:20",
-          "finish": "18:00",
+          "time": "16:40",
+          "finish": "17:20",
           "language": "English"
         }
       ]
@@ -267,9 +267,9 @@
           "description": "API Platform: Symfony ile geliştirilmiş açık kaynaklı bir API geliştirme projesidir. Kendi veri yapılarınız veya Schema.org üzerindeki veri yapılarını kullanarak: doğrulama, sayfalama, filtreleme, güvenlik ve daha fazlasını birkaç dakika içerisinde REST /GraphQL ile geliştirmenize ve modern veri formatları üzerinde çıktılar almanıza olanak sağlar. Ayrıca API Platform araçları ile Vue.js, React.js, React Native gibi SPA / Mobil uygulamalarına hazır kod üretebilir ve Docker, Kubernetes ile yayına gönderebilirsiniz. Oturumda API Platform kullanımı ve özellikleri anlatılacak.",
           "keynote": 0,
           "track": 2,
-          "session": 4,
-          "time": "12:00",
-          "finish": "12:40",
+          "session": 12,
+          "time": "17:20",
+          "finish": "18:00",
           "language": "Türkçe"
         }
       ]
@@ -293,8 +293,8 @@
           "keynote": 0,
           "track": 2,
           "session": 11,
-          "time": "17:20",
-          "finish": "18:00",
+          "time": "16:40",
+          "finish": "17:20",
           "language": "Türkçe"
         }
       ]
@@ -318,8 +318,8 @@
           "keynote": 0,
           "track": 2,
           "session": 9,
-          "time": "15:40",
-          "finish": "16:20",
+          "time": "15:00",
+          "finish": "15:40",
           "language": "Türkçe"
         }
       ]
@@ -343,8 +343,8 @@
           "keynote": 0,
           "track": 1,
           "session": 9,
-          "time": "15:40",
-          "finish": "16:20",
+          "time": "15:00",
+          "finish": "15:40",
           "language": "English"
         }
       ]
@@ -368,8 +368,8 @@
           "keynote": 0,
           "track": 2,
           "session": 6,
-          "time": "13:30",
-          "finish": "14:10",
+          "time": "13:00",
+          "finish": "13:40",
           "language": "Türkçe"
         }
       ]
@@ -392,9 +392,9 @@
           "description": "PHP 25 yıllık dinamik tipli (dynamically typed) bir yazılım dili. 2015 yılında yayınlanan 7.0 sürümüyle gelen Scalar & Return type declarations ile yarı dinamik, yarı statik (gradually typed) bir dil oldu. Aralık 2019'da yayınlanacak PHP 7.4 ile de PHP'e statik tip (statically typed) desteği ekleniyor. Oturumda PHP ile static typing'i PHP 7.4 üzerinden detaylarıyla inceleyecek, PHP 7.4 ve PHP 8.0'da hayatımıza girecek diğer özelliklere göz atacağız.",
           "keynote": 0,
           "track": 2,
-          "session": 12,
-          "time": "18:10",
-          "finish": "18:50",
+          "session": 3,
+          "time": "10:40",
+          "finish": "11:20",
           "language": "Türkçe"
         }
       ]
@@ -418,8 +418,8 @@
           "keynote": 0,
           "track": 1,
           "session": 12,
-          "time": "18:10",
-          "finish": "18:50",
+          "time": "17:20",
+          "finish": "18:00",
           "language": "English"
         }
       ]
@@ -443,8 +443,8 @@
           "keynote": 0,
           "track": 1,
           "session": 2,
-          "time": "10:40",
-          "finish": "11:10",
+          "time": "10:10",
+          "finish": "10:40",
           "language": "English"
         },
         {
@@ -453,8 +453,8 @@
           "keynote": 0,
           "track": 2,
           "session": 2,
-          "time": "10:40",
-          "finish": "11:10",
+          "time": "10:10",
+          "finish": "10:40",
           "language": "English"
         },
         {
@@ -463,8 +463,8 @@
           "keynote": 0,
           "track": 2,
           "session": 5,
-          "time": "12:40",
-          "finish": "13:30",
+          "time": "12:10",
+          "finish": "13:00",
           "language": "English"
         },
         {
@@ -473,8 +473,8 @@
           "keynote": 0,
           "track": 1,
           "session": 5,
-          "time": "12:40",
-          "finish": "13:30",
+          "time": "12:10",
+          "finish": "13:00",
           "language": "English"
         },
         {
@@ -483,8 +483,8 @@
           "keynote": 0,
           "track": 2,
           "session": 8,
-          "time": "15:00",
-          "finish": "15:40",
+          "time": "14:30",
+          "finish": "15:00",
           "language": "English"
         },
         {
@@ -493,8 +493,8 @@
           "keynote": 0,
           "track": 1,
           "session": 8,
-          "time": "15:00",
-          "finish": "15:40",
+          "time": "14:30",
+          "finish": "15:00",
           "language": "English"
         }
       ]
