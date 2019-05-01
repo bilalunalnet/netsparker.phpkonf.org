@@ -29,7 +29,7 @@
             </div>
             <div class="c-speaker-card__content">
               <h3 class="c-speaker-card__title">{{ item.name }}</h3>
-              <span class="c-speaker-card__with-jobs">{{ item.title }} <span class="c-speaker-card__hastag">@{{ item.company }}</span></span>
+              <span class="c-speaker-card__with-jobs" v-if="item.title !== null">{{ item.title }} <span class="c-speaker-card__hastag" v-if="item.company !== null">@{{ item.company }}</span></span>
               <ul class="c-speaker-card__menu">
                 <li class="c-speaker-card__menu-item">
                   <a :href="item.social.twitter" target="_blank" class="c-speaker-card__menu-link">

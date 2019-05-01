@@ -377,8 +377,8 @@
     {
       "name": "Midori Koçak",
       "homepage": true,
-      "company": "",
-      "title": "",
+      "company": null,
+      "title": null,
       "bio": "Midori is a Software Engineer who helps to try new things and share her findings with other people. She is author of \"PHP with Projects\" published in Turkish and founder of \"Coding Volunteers\" organization to help people to take their first step into coding. She is also a ZCPE and likes JavaScript too. Just say hello, she will greet, smile and will try to do her best.",
       "avatar": "/img/speakers/midori.png",
       "social": {
