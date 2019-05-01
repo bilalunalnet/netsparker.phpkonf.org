@@ -217,9 +217,9 @@
           "description": "Cloud servislerinin yaygınlık ve ihtiyaçlarının artışıyla birlikte Serverless mimari de popüler bir yaklaşım haline geldi. Bu oturumda Amazon Web Services hizmetleriyle bir PHP kütüphanesi/çatısı olan bref kullanarak FaaS dünyasına nasıl girebileceğimizi ve uygulama tasarımında bu yaklaşım ne gibi farklılıklar getirdiğini konuşacağız.",
           "keynote": 0,
           "track": 2,
-          "session": 10,
-          "time": "15:50",
-          "finish": "16:30",
+          "session": 3,
+          "time": "10:40",
+          "finish": "11:20",
           "language": "Türkçe"
         }
       ]
@@ -241,10 +241,10 @@
           "title": "Ports and Adapters: Hexagon Architecture",
           "description": "A modern software project includes individual parts such as end user applications, management applications and command line applications that perform repetitive tasks. In addition, this structure becomes larger with the required APIs and queues. The processing logic that stands at the heart of our application tends to ooze everywhere in this structure. Therefore, it is vital to separate the processing logic, the environment used by the application, and the network services it communicates with. In this session, Alistair Cockburn's Ports and Adapters (known as Hexagonal Architecture) software architecture and clean architecture will be mentioned.",
           "keynote": 0,
-          "track": 1,
-          "session": 11,
-          "time": "16:40",
-          "finish": "17:20",
+          "track": 2,
+          "session": 10,
+          "time": "15:50",
+          "finish": "16:30",
           "language": "English"
         }
       ]
@@ -375,26 +375,26 @@
       ]
     },
     {
-      "name": "Emir Karşıyakalı",
+      "name": "Midori Koçak",
       "homepage": true,
-      "company": "Moneo",
-      "title": "Founder",
-      "bio": "Emir Karşıyakalı is founder and software architect at moneo, an Istanbul based company that specializes in web application development. He has a decade of experience building web applications. He has been involved in software architecture and development for many years and writes code in PHP, Go, JavaScript, Swift and other interesting languages. He is an open source enthusiast and an advocate of modern development principles & standards. He loves speaking at conferences, pushing teams to do their best work and to try out new technologies. Leader of PHP User group in Istanbul, Turkey and organizer of PHPKonf. He’s given many talks and workshops at conferences like Devnot, Özgür Web Teknolojileri Günleri and Google Devfest.",
-      "avatar": "/img/speakers/emir.png",
+      "company": "",
+      "title": "",
+      "bio": "Midori is a Software Engineer who helps to try new things and share her findings with other people. She is author of \"PHP with Projects\" published in Turkish and founder of \"Coding Volunteers\" organization to help people to take their first step into coding. She is also a ZCPE and likes JavaScript too. Just say hello, she will greet, smile and will try to do her best.",
+      "avatar": "/img/speakers/midori.png",
       "social": {
-        "twitter": "https://twitter.com/emirkarsiyakali",
-        "github": "https://github.com/emir",
-        "linkedin": "https://www.linkedin.com/in/emirkarsiyakali"
+        "twitter": "https://twitter.com/midorikocak",
+        "github": "https://github.com/midorikocak",
+        "linkedin": "https://www.linkedin.com/in/midorikocak"
       },
       "sessions": [
         {
-          "title": "2020'de PHP",
-          "description": "PHP 25 yıllık dinamik tipli (dynamically typed) bir yazılım dili. 2015 yılında yayınlanan 7.0 sürümüyle gelen Scalar & Return type declarations ile yarı dinamik, yarı statik (gradually typed) bir dil oldu. Aralık 2019'da yayınlanacak PHP 7.4 ile de PHP'e statik tip (statically typed) desteği ekleniyor. Oturumda PHP ile static typing'i PHP 7.4 üzerinden detaylarıyla inceleyecek, PHP 7.4 ve PHP 8.0'da hayatımıza girecek diğer özelliklere göz atacağız.",
+          "title": "How to have your idea accepted to PHP as a newbee?",
+          "description": "Midori is a PHP developer but until that day had no plain C experience. Light bulb was there on her head but is it easy to convince all of those seasoned developers who work for PHP in all their free time? How do you find your way when you know nothing about how things are working? Have you ever wondered how new features are coming to PHP? Here is the story, from idea to the end. Fasten your seat belts.",
           "keynote": 0,
-          "track": 2,
-          "session": 3,
-          "time": "10:40",
-          "finish": "11:20",
+          "track": 1,
+          "session": 11,
+          "time": "16:40",
+          "finish": "17:20",
           "language": "Türkçe"
         }
       ]
