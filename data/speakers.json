@@ -238,14 +238,14 @@
       },
       "sessions": [
         {
-          "title": "Ports and Adapters: Hexagon Architecture",
-          "description": "A modern software project includes individual parts such as end user applications, management applications and command line applications that perform repetitive tasks. In addition, this structure becomes larger with the required APIs and queues. The processing logic that stands at the heart of our application tends to ooze everywhere in this structure. Therefore, it is vital to separate the processing logic, the environment used by the application, and the network services it communicates with. In this session, Alistair Cockburn's Ports and Adapters (known as Hexagonal Architecture) software architecture and clean architecture will be mentioned.",
+          "title": "Ports and Adapters: Altıgen Mimari",
+          "description": "Modern bir yazılım projesinde son kullanıcı uygulaması, yönetim uygulaması, tekrar eden görevleri yerine getiren komut satırı uygulamaları gibi birbirinden bağımsız parçalar bulunur. Ek olarak ihtiyaç duyulan API’lar, kuyruklar ile bu yapı daha da büyür. Uygulamamızın kalbinde duran işleme mantığı bu yapıda her yere sızma eğilimindedir. Bu nedenle işleme mantığını, uygulamanın kullandığı ortamı, iletişim kurduğu network servislerini bir birinden ayırmak hayatidir. Oturumda, yukarıda bahsedilen problemin çözümüne yönelik Alistair Cockburn’ün Ports and Adapters (Hexagonal Mimari diye de bilinir) isimli yazılım mimarisi tasarısı özelinde “temiz mimarinin” detaylarından bahsedilecek.",
           "keynote": 0,
           "track": 2,
           "session": 10,
           "time": "15:50",
           "finish": "16:30",
-          "language": "English"
+          "language": "Türkçe"
         }
       ]
     },
@@ -376,7 +376,7 @@
     },
     {
       "name": "Midori Koçak",
-      "homepage": true,
+      "homepage": false,
       "company": null,
       "title": null,
       "bio": "Midori is a Software Engineer who helps to try new things and share her findings with other people. She is author of \"PHP with Projects\" published in Turkish and founder of \"Coding Volunteers\" organization to help people to take their first step into coding. She is also a ZCPE and likes JavaScript too. Just say hello, she will greet, smile and will try to do her best.",
@@ -395,13 +395,13 @@
           "session": 11,
           "time": "16:40",
           "finish": "17:20",
-          "language": "Türkçe"
+          "language": "English"
         }
       ]
     },
     {
       "name": "Armağan Amcalar",
-      "homepage": false,
+      "homepage": true,
       "company": "Wayfair",
       "title": "Senior Engineering Manager",
       "bio": "Armagan is currently working as a Senior Engineering Manager at Wayfair, responsible for leading the creation of innovative products to enhance the experiences of Wayfair's partners. A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of cote, a library for building microservices with Node.js. He spends most of his free time teaching JavaScript as a university lecturer, a consultant or an NGO worker. He also leads Lonca Works, a software craftsmanship guild.",
