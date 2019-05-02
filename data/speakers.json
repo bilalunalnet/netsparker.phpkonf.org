@@ -18,8 +18,8 @@
           "keynote": 1,
           "track": 1,
           "session": 1,
-          "time": "10:00",
-          "finish": "10:40",
+          "time": "09:30",
+          "finish": "10:10",
           "language": "English"
         }
       ]
@@ -43,8 +43,8 @@
           "keynote": 0,
           "track": 1,
           "session": 3,
-          "time": "11:10",
-          "finish": "11:50",
+          "time": "10:40",
+          "finish": "11:20",
           "language": "English"
         }
       ]
@@ -68,8 +68,8 @@
           "keynote": 0,
           "track": 1,
           "session": 10,
-          "time": "16:30",
-          "finish": "17:10",
+          "time": "15:50",
+          "finish": "16:30",
           "language": "English"
         }
       ]
@@ -93,33 +93,33 @@
           "keynote": 0,
           "track": 1,
           "session": 7,
-          "time": "14:20",
-          "finish": "15:00",
+          "time": "13:50",
+          "finish": "14:30",
           "language": "English"
         }
       ]
     },
     {
-      "name": "Emir Karşıyakalı",
-      "homepage": true,
-      "company": "Moneo",
-      "title": "Founder",
-      "bio": "Emir Karşıyakalı is founder and software architect at moneo, an Istanbul based company that specializes in web application development. He has a decade of experience building web applications. He has been involved in software architecture and development for many years and writes code in PHP, Go, JavaScript, Swift and other interesting languages. He is an open source enthusiast and an advocate of modern development principles & standards. He loves speaking at conferences, pushing teams to do their best work and to try out new technologies. Leader of PHP User group in Istanbul, Turkey and organizer of PHPKonf. He’s given many talks and workshops at conferences like Devnot, Özgür Web Teknolojileri Günleri and Google Devfest.",
-      "avatar": "/img/speakers/emir.png",
+      "name": "Mehmet Karcı",
+      "homepage": false,
+      "company": "Masomo",
+      "title": "Backend Team Lead",
+      "bio": "Mehmet Karcı works as a backend team leader at Masomo. Developing high-traffic web projects for 10 years, Mehmet is interested in PHP, Golang, JavaScript and Python.",
+      "avatar": "/img/speakers/mehmet.jpg",
       "social": {
-        "twitter": "https://twitter.com/emirkarsiyakali",
-        "github": "https://github.com/emir",
-        "linkedin": "https://www.linkedin.com/in/emirkarsiyakali"
+        "twitter": "https://twitter.com/mkrc",
+        "github": "https://github.com/mkrc",
+        "linkedin": "https://www.linkedin.com/in/mkarci/"
       },
       "sessions": [
         {
-          "title": "2020'de PHP",
-          "description": "PHP 25 yıllık dinamik tipli (dynamically typed) bir yazılım dili. 2015 yılında yayınlanan 7.0 sürümüyle gelen Scalar & Return type declarations ile yarı dinamik, yarı statik (gradually typed) bir dil oldu. Aralık 2019'da yayınlanacak PHP 7.4 ile de PHP'e statik tip (statically typed) desteği ekleniyor. Oturumda PHP ile static typing'i PHP 7.4 üzerinden detaylarıyla inceleyecek, PHP 7.4 ve PHP 8.0'da hayatımıza girecek diğer özelliklere göz atacağız.",
+          "title": "200K Online Oyuncuda PHP (Kafa Topu 2)",
+          "description": "Bu oturumda anlık 200 bin kullanıcıya sahip bir online oyun olan Kafa Topu 2'nin Backend alt yapısını nasıl kurguladığımızı ve yüksek trafik altında PHP'yi diğer teknolojiler ile nasıl beslediğimizi / optimize ettiğimizi anlatacağız.",
           "keynote": 0,
           "track": 2,
-          "session": 3,
-          "time": "11:10",
-          "finish": "11:50",
+          "session": 4,
+          "time": "11:30",
+          "finish": "12:10",
           "language": "Türkçe"
         }
       ]
@@ -143,8 +143,8 @@
           "keynote": 0,
           "track": 2,
           "session": 7,
-          "time": "14:20",
-          "finish": "15:00",
+          "time": "13:50",
+          "finish": "14:30",
           "language": "Türkçe"
         }
       ]
@@ -168,8 +168,8 @@
           "keynote": 0,
           "track": 1,
           "session": 4,
-          "time": "12:00",
-          "finish": "12:40",
+          "time": "11:30",
+          "finish": "12:10",
           "language": "English"
         }
       ]
@@ -193,8 +193,8 @@
           "keynote": 0,
           "track": 1,
           "session": 6,
-          "time": "13:30",
-          "finish": "14:10",
+          "time": "13:00",
+          "finish": "13:40",
           "language": "English"
         }
       ]
@@ -203,7 +203,7 @@
       "name": "Eser Özvataf",
       "homepage": false,
       "company": "Setur",
-      "title": "Lead Developer",
+      "title": "Software Process Leader",
       "bio": "Professional experience in software delivery since 2001. Has led teams and designed architecture of solutions for clients including enterprise systems, messaging solutions, e-commerce, social media, tourism and web application projects. The recent expertise are mostly in Agile Project Management, Cloud Computing, Enterprise Architecture and DevOps. Voluntary attends conferences and local activities as a speaker, and/also a streamer on Twitch.",
       "avatar": "/img/speakers/eser.jpg",
       "social": {
@@ -213,13 +213,13 @@
       },
       "sessions": [
         {
-          "title": "Azure DevOps ve GitHub ile uçtan uca PHP Projeleri",
-          "description": "Microsoft'un geçtiğimiz yıl içerisinde Azure DevOps ve GitHub ürünlerini belirli limitlerde ücretsizleştirmesi ile birlikte \"şirket içi açık kaynak\" anlayışı daha da uygulanabilir bir duruma geldi. Bu oturumda Azure DevOps ve GitHub'ın sağladığı repository, proje yönetimi, CI/CD ve yük testi araçları başta olmak üzere imkanlarla bir PHP projesinin yaşayabileceği uçtan uca macerayı konuşacağız.",
+          "title": "Serverless PHP",
+          "description": "Cloud servislerinin yaygınlık ve ihtiyaçlarının artışıyla birlikte Serverless mimari de popüler bir yaklaşım haline geldi. Bu oturumda Amazon Web Services hizmetleriyle bir PHP kütüphanesi/çatısı olan bref kullanarak FaaS dünyasına nasıl girebileceğimizi ve uygulama tasarımında bu yaklaşım ne gibi farklılıklar getirdiğini konuşacağız.",
           "keynote": 0,
           "track": 2,
-          "session": 10,
-          "time": "16:30",
-          "finish": "17:10",
+          "session": 3,
+          "time": "10:40",
+          "finish": "11:20",
           "language": "Türkçe"
         }
       ]
@@ -241,11 +241,11 @@
           "title": "Ports and Adapters: Altıgen Mimari",
           "description": "Modern bir yazılım projesinde son kullanıcı uygulaması, yönetim uygulaması, tekrar eden görevleri yerine getiren komut satırı uygulamaları gibi birbirinden bağımsız parçalar bulunur. Ek olarak ihtiyaç duyulan API’lar, kuyruklar ile bu yapı daha da büyür. Uygulamamızın kalbinde duran işleme mantığı bu yapıda her yere sızma eğilimindedir. Bu nedenle işleme mantığını, uygulamanın kullandığı ortamı, iletişim kurduğu network servislerini bir birinden ayırmak hayatidir. Oturumda, yukarıda bahsedilen problemin çözümüne yönelik Alistair Cockburn’ün Ports and Adapters (Hexagonal Mimari diye de bilinir) isimli yazılım mimarisi tasarısı özelinde “temiz mimarinin” detaylarından bahsedilecek.",
           "keynote": 0,
-          "track": 1,
-          "session": 11,
-          "time": "17:20",
-          "finish": "18:00",
-          "language": "Turkish"
+          "track": 2,
+          "session": 10,
+          "time": "15:50",
+          "finish": "16:30",
+          "language": "Türkçe"
         }
       ]
     },
@@ -267,9 +267,9 @@
           "description": "API Platform: Symfony ile geliştirilmiş açık kaynaklı bir API geliştirme projesidir. Kendi veri yapılarınız veya Schema.org üzerindeki veri yapılarını kullanarak: doğrulama, sayfalama, filtreleme, güvenlik ve daha fazlasını birkaç dakika içerisinde REST /GraphQL ile geliştirmenize ve modern veri formatları üzerinde çıktılar almanıza olanak sağlar. Ayrıca API Platform araçları ile Vue.js, React.js, React Native gibi SPA / Mobil uygulamalarına hazır kod üretebilir ve Docker, Kubernetes ile yayına gönderebilirsiniz. Oturumda API Platform kullanımı ve özellikleri anlatılacak.",
           "keynote": 0,
           "track": 2,
-          "session": 4,
-          "time": "12:00",
-          "finish": "12:40",
+          "session": 12,
+          "time": "17:20",
+          "finish": "18:00",
           "language": "Türkçe"
         }
       ]
@@ -293,8 +293,8 @@
           "keynote": 0,
           "track": 2,
           "session": 11,
-          "time": "17:20",
-          "finish": "18:00",
+          "time": "16:40",
+          "finish": "17:20",
           "language": "Türkçe"
         }
       ]
@@ -318,8 +318,8 @@
           "keynote": 0,
           "track": 2,
           "session": 9,
-          "time": "15:40",
-          "finish": "16:20",
+          "time": "15:00",
+          "finish": "15:40",
           "language": "Türkçe"
         }
       ]
@@ -338,13 +338,13 @@
       },
       "sessions": [
         {
-          "title": "Performances in a Real-world Application",
+          "title": "Performance in a Real-world Application",
           "description": "Do you remember the arrival of Web 2.0 around year 2000? A few months after the release of MySpace, del.icio.us came to the world with a service to save and share bookmarks. With a focus on performance, we're going to demonstrate how to build a clone of this social network with API Platform by applying modern concepts. While explaining what performance is actually about, what should be measured and how, we will show how it can be part of the development and testing process. All this will be done on a modern SPA stack, with real-time capabilities via Mercure and asynchronous data processing using the Symfony Messenger component.",
           "keynote": 0,
           "track": 1,
           "session": 9,
-          "time": "15:40",
-          "finish": "16:20",
+          "time": "15:00",
+          "finish": "15:40",
           "language": "English"
         }
       ]
@@ -368,9 +368,59 @@
           "keynote": 0,
           "track": 2,
           "session": 6,
-          "time": "13:30",
-          "finish": "14:10",
+          "time": "13:00",
+          "finish": "13:40",
           "language": "Türkçe"
+        }
+      ]
+    },
+    {
+      "name": "Midori Koçak",
+      "homepage": false,
+      "company": null,
+      "title": null,
+      "bio": "Midori is a Software Engineer who likes to try new things and share her findings with other people. She is author of \"PHP with Projects\" published in Turkish and founder of \"Coding Volunteers\" organization to help people to take their first step into coding. She is also a ZCPE and likes JavaScript too. Just say hello, she will greet, smile and will try to do her best.",
+      "avatar": "/img/speakers/midori.png",
+      "social": {
+        "twitter": "https://twitter.com/midorikocak",
+        "github": "https://github.com/midorikocak",
+        "linkedin": "https://www.linkedin.com/in/midorikocak"
+      },
+      "sessions": [
+        {
+          "title": "How to have your idea accepted to PHP as a newbie?",
+          "description": "Midori is a PHP developer but until that day had no plain C experience. Light bulb was there on her head but is it easy to convince all of those seasoned developers who work for PHP in all their free time? How do you find your way when you know nothing about how things are working? Have you ever wondered how new features are coming to PHP? Here is the story, from idea to the end. Fasten your seat belts.",
+          "keynote": 0,
+          "track": 1,
+          "session": 11,
+          "time": "16:40",
+          "finish": "17:20",
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "name": "Armağan Amcalar",
+      "homepage": true,
+      "company": "Wayfair",
+      "title": "Senior Engineering Manager",
+      "bio": "Armagan is currently working as a Senior Engineering Manager at Wayfair, responsible for leading the creation of innovative products to enhance the experiences of Wayfair's partners. A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of cote, a library for building microservices with Node.js. He spends most of his free time teaching JavaScript as a university lecturer, a consultant or an NGO worker. He also leads Lonca Works, a software craftsmanship guild.",
+      "avatar": "/img/speakers/armagan.jpg",
+      "social": {
+        "twitter": "https://twitter.com/dashersw",
+        "github": "https://github.com/dashersw",
+        "linkedin": "https://www.linkedin.com/in/armaganamcalar"
+      },
+      "sessions": [
+        {
+          "title": "The problem with JavaScript",
+          "description": "Do you feel the JavaScript fatigue? Do you find it difficult to understand all the new approaches that come out every single day? You are not alone. JavaScript is a great tool, but its simplicity is its biggest enemy. This talk will uncover why we hate what we hate in JavaScript, how JavaScript could be best utilized, and what it could actually do. We will talk about communities, open source projects, and the companies behind them, and we will talk about the problem with JavaScript.",
+          "keynote": 0,
+          "track": 1,
+          "session": 12,
+          "time": "17:20",
+          "finish": "18:00",
+          "language": "English"
         }
       ]
     },
@@ -393,8 +443,8 @@
           "keynote": 0,
           "track": 1,
           "session": 2,
-          "time": "10:40",
-          "finish": "11:10",
+          "time": "10:10",
+          "finish": "10:40",
           "language": "English"
         },
         {
@@ -403,8 +453,8 @@
           "keynote": 0,
           "track": 2,
           "session": 2,
-          "time": "10:40",
-          "finish": "11:10",
+          "time": "10:10",
+          "finish": "10:40",
           "language": "English"
         },
         {
@@ -413,8 +463,8 @@
           "keynote": 0,
           "track": 2,
           "session": 5,
-          "time": "12:40",
-          "finish": "13:30",
+          "time": "12:10",
+          "finish": "13:00",
           "language": "English"
         },
         {
@@ -423,8 +473,8 @@
           "keynote": 0,
           "track": 1,
           "session": 5,
-          "time": "12:40",
-          "finish": "13:30",
+          "time": "12:10",
+          "finish": "13:00",
           "language": "English"
         },
         {
@@ -433,8 +483,8 @@
           "keynote": 0,
           "track": 2,
           "session": 8,
-          "time": "15:00",
-          "finish": "15:40",
+          "time": "14:30",
+          "finish": "15:00",
           "language": "English"
         },
         {
@@ -443,8 +493,8 @@
           "keynote": 0,
           "track": 1,
           "session": 8,
-          "time": "15:00",
-          "finish": "15:40",
+          "time": "14:30",
+          "finish": "15:00",
           "language": "English"
         }
       ]
